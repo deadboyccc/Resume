@@ -30,8 +30,9 @@
 
 ## Skills
 
-- **Languages & Frameworks**: JavaScript, TypeScript, C++, Python, Node.js, ExpressJS, Jest, MongoDB, Mongoose,SQL, PostgreSQL, sequelize, Redis, Postman, GraphQL,
-- **Concepts**: Authentication & Authorization, DSA, Design Patterns, Data Modeling, REST APIs, Data Modeling
+- **Languages & Technologies**: JavaScript, TypeScript, C++, Python, Node.js, ExpressJS, Jest, MongoDB, Mongoose,SQL, PostgreSQL, sequelize, Redis, Postman, GraphQL, PM2, Docker, Git, Github, SocketIO
+---
+- **Concepts**: Authentication & Authorization, DSA, Design Patterns, Data Modeling, REST APIs, Data Modeling, Unit Testing, SOLID,Clean Code, AGILE, Websocket
 
 ## Education
 
