@@ -48,10 +48,10 @@
 
 ## Academic Achievements and Professional Development
 
-I began programming at the age of 13, driven by a passion for technology and problem-solving. Over the years, I have focused on self-learning backend development, specializing in Node.js, Express.js, MongoDB, and TypeScript, building a strong foundation in server-side development.
+I began programming at the age of 13, fueled by a passion for technology and problem-solving. Over the years, I’ve focused on self-learning backend development, specializing in Node.js, Express.js, MongoDB, TypeScript, and Python. This has allowed me to build a strong foundation in server-side development.
 
-I have gained practical experience in MongoDB, learning schema design, aggregation, and indexing, and built several RESTful APIs with Express.js, implementing features like JWT authentication, role-based access control, and error handling. Refactoring JavaScript to TypeScript helped me improve code clarity and type safety.
+Through practical experience, I have honed my skills in MongoDB, including schema design, aggregation, and indexing, and have built several RESTful and GraphQL APIs. These projects have incorporated key features like JWT authentication, role-based access control, and error handling. Refactoring JavaScript to TypeScript has improved my code clarity, type safety, and scalability.
 
-My projects include an e-commerce API with payment integration and user authentication, and a blogging platform with role-based access and real-time updates. I have explored core Node.js concepts, written tests with Jest, and deployed applications using Docker and Heroku. Additionally, I've worked with Redis for caching and API optimization.
+My notable projects include an e-commerce API with payment integration and user authentication, and a blogging platform with role-based access and real-time updates. I’ve explored core Node.js concepts, written tests with Jest, and deployed applications using Docker and Heroku. Additionally, I’ve utilized Redis for caching and PostgreSQL for data storage optimization.
 
-I consistently follow best practices like clean code principles and backend design patterns, and I continue enhancing my skills through courses on platforms like Udemy and Coursera. This journey reflects my dedication to becoming a well-rounded backend developer.
+I am deeply committed to following best practices, including clean code principles, design patterns, and SOLID principles. I continue to enhance my skills by learning new technologies, such as ASP.NET, and expanding my knowledge of microservices architecture. This journey reflects my dedication to becoming a versatile and highly skilled backend developer.
