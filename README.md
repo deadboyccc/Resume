@@ -48,10 +48,22 @@
 
 ## Academic Achievements and Professional Development
 
-I began programming at the age of 13, fueled by a passion for technology and problem-solving. Over the years, I’ve focused on self-learning backend development, specializing in Node.js, Express.js, MongoDB, TypeScript. This has allowed me to build a strong foundation in server-side development.
+---
 
-Through practical experience, I have honed my skills in MongoDB, including schema design, aggregation, and indexing, and have built several RESTful and GraphQL APIs. These projects have incorporated key features like JWT authentication, role-based access control, and error handling. Refactoring JavaScript to TypeScript has improved my code clarity, type safety, and scalability.
+I began programming at the age of 13, driven by an innate passion for technology and problem-solving. Over the years, I’ve focused on backend development, specializing in **Node.js**, **Express.js**, **MongoDB**, **TypeScript**, and **Python**. This journey has allowed me to build a strong foundation in server-side development and develop a deep understanding of creating efficient, scalable applications.
 
-My notable projects include an e-commerce API with payment integration and user authentication, and a blogging platform with role-based access and real-time updates. I’ve explored core Node.js concepts, written tests with Jest, and deployed applications using Docker and Heroku. Additionally, I’ve utilized Redis for caching and PostgreSQL for data storage optimization.
+My hands-on experience spans across several key technologies:  
+- **MongoDB** and **PostgreSQL** (with **Mongoose** and **Sequelize**): These have been central to my backend projects, enabling me to design flexible and performant database schemas, implement aggregation queries, and optimize data storage for scalability.  
+- **Node.js**, **ExpressJS**, and **Socket.io**: These form the backbone of my API development, where I've built **RESTful** and **GraphQL APIs**, implemented real-time features with WebSockets, and integrated **JWT authentication** and **role-based access control** for secure user management.  
+- **TypeScript** and **JavaScript**: I use TypeScript to enhance code clarity, maintainability, and type safety, while JavaScript powers the logic and flow of my backend systems.  
+- **C/C++** and **C#**: These languages have given me a deeper understanding of low-level programming, contributing to my ability to optimize performance and handle resource management effectively.  
+- **Redis**: I’ve leveraged Redis for caching, significantly improving API performance by reducing database load and speeding up data retrieval.  
+- **Docker** and **PM2**: These tools have been essential for containerization and process management, allowing me to deploy applications in scalable, isolated environments and maintain system performance under load.  
+- **Git**, **GitHub**, and **Postman**: These tools are central to my development workflow, enabling version control, collaboration, and API testing.  
+- **ASP.NET**: Currently, I’m expanding my knowledge of **ASP.NET** for building enterprise-level applications and honing my skills in the **microservices architecture**, further broadening my backend capabilities.  
 
-I am deeply committed to following best practices, including clean code principles, design patterns, and SOLID principles. I continue to enhance my skills by learning new technologies, such as ASP.NET, and expanding my knowledge of microservices architecture. This journey reflects my dedication to becoming a versatile and highly skilled backend developer.
+I have worked on diverse projects, including an e-commerce API with payment integration and user authentication, and a blogging platform with real-time updates and role-based access. My focus on **clean code principles**, **SOLID design patterns**, and **Agile methodologies** ensures the reliability and maintainability of every project.
+
+I am committed to continuous learning and improvement, always eager to incorporate the latest best practices and technologies into my projects. My goal is to deliver impactful solutions while growing as a versatile backend developer, ready to take on complex challenges and build innovative systems.
+
+---
