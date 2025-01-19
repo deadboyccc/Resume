@@ -48,7 +48,7 @@
 
 ## Academic Achievements and Professional Development
 
-I began programming at the age of 13, fueled by a passion for technology and problem-solving. Over the years, I’ve focused on self-learning backend development, specializing in Node.js, Express.js, MongoDB, TypeScript, and Python. This has allowed me to build a strong foundation in server-side development.
+I began programming at the age of 13, fueled by a passion for technology and problem-solving. Over the years, I’ve focused on self-learning backend development, specializing in Node.js, Express.js, MongoDB, TypeScript. This has allowed me to build a strong foundation in server-side development.
 
 Through practical experience, I have honed my skills in MongoDB, including schema design, aggregation, and indexing, and have built several RESTful and GraphQL APIs. These projects have incorporated key features like JWT authentication, role-based access control, and error handling. Refactoring JavaScript to TypeScript has improved my code clarity, type safety, and scalability.
 
