@@ -68,7 +68,6 @@ I am committed to continuous learning and improvement, always eager to incorpora
 
 ---
 ## Contact
-## Contact
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/deadboyccc)
 * **GitHub:** [GitHub](https://github.com/deadboyccc)
