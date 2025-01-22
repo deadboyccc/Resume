@@ -36,6 +36,7 @@
 
 ## Education
 
+### Baghdad College High School - High School Diploma: 98/100
 ### CS50x & CS50P & CS50W 
 ### Udemy CPP & DSA
 ### Udemy JavaScript & TypeScript
@@ -43,13 +44,8 @@
 ### Udemy Express.Js & MongoDB
 ### Udemy Networking and Linux Fundamentals 
 
-
-**Software Development** | June 2013 - Present
-
 ## Academic Achievements and Professional Development
-
 ---
-
 I began programming at the age of 13, driven by an innate passion for technology and problem-solving. Over the years, I’ve focused on backend development, specializing in **Node.js**, **Express.js**, **MongoDB**, **TypeScript**, and **Python**. This journey has allowed me to build a strong foundation in server-side development and develop a deep understanding of creating efficient, scalable applications.
 
 My hands-on experience spans across several key technologies:  
