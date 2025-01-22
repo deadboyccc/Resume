@@ -31,7 +31,7 @@
 ## Skills
 
 - **Languages & Technologies**: JavaScript, TypeScript, C/C++, C#, Python, ASP.NET, Node.js, ExpressJS, Jest, MongoDB, Mongoose, SQL, PostgreSQL, sequelize, Redis, Postman, GraphQL, PM2, Docker, Git, Github, SocketIO
----
+
 - **Concepts**: Authentication & Authorization, DSA, Design Patterns, Data Modeling, REST APIs, Unit Testing, SOLID,Clean Code, AGILE, Websocket
 
 ## Education
@@ -62,7 +62,7 @@ I have worked on diverse projects, including an e-commerce API with payment inte
 
 I am committed to continuous learning and improvement, always eager to incorporate the latest best practices and technologies into my projects. My goal is to deliver impactful solutions while growing as a versatile backend developer, ready to take on complex challenges and build innovative systems.
 
----
+
 ## Contact
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/deadboyccc)
