@@ -67,3 +67,8 @@ I have worked on diverse projects, including an e-commerce API with payment inte
 I am committed to continuous learning and improvement, always eager to incorporate the latest best practices and technologies into my projects. My goal is to deliver impactful solutions while growing as a versatile backend developer, ready to take on complex challenges and build innovative systems.
 
 ---
+## Contact
+## Contact
+
+* **LinkedIn:** [deadboyccc](https://www.linkedin.com/in/deadboyccc)
+* **GitHub:** [deadboyccc](github.com/deadboyccc)
