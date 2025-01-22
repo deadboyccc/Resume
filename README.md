@@ -4,9 +4,9 @@
 
 ## Experience
 
-### Backend Developer | Baghdad, Iraq
+### CodeCraft | Baghdad, Iraq
 
-**CodeCraft** | June 2024 - Present
+**Backend Developer** | June 2024 - Present
 
 - Designed, developed, and maintained robust and scalable RESTful APIs using Node.js, Express.js, and TypeScript, ensuring type safety and code maintainability.
 - Implemented robust authentication and authorization mechanisms using JWT (JSON Web Tokens) to secure API endpoints and user data.
