@@ -32,7 +32,7 @@
 
 - **Languages & Technologies**: JavaScript, TypeScript, C/C++, C#, Python, ASP.NET, Node.js, ExpressJS, Jest, MongoDB, Mongoose, SQL, PostgreSQL, sequelize, Redis, Postman, GraphQL, PM2, Docker, Git, Github, SocketIO, Apache Kafka
 
-- **Concepts**: Authentication & Authorization, DSA, Design Patterns, Data Modeling, REST APIs, Unit Testing, SOLID,Clean Code, AGILE, Websocket
+- **Concepts**: Authentication & Authorization, DSA, Design Patterns, Data Modeling, REST APIs, Unit Testing, SOLID, Clean Code, AGILE, Websocket
 
 ## Education
 
