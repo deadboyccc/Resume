@@ -34,8 +34,6 @@
 
 - **Concepts**: Authentication & Authorization, DSA, Design Patterns, Data Modeling, REST APIs, Microservices, Event-Driven Architecture, Unit Testing, SOLID, Clean Code, AGILE, Websocket
 
-## Education
-
 ## Education  
 
 ### American University of Iraq, Sulaimani (AUIS)  
