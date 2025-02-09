@@ -36,13 +36,19 @@
 
 ## Education
 
-### Baghdad College High School - High School Diploma: 98/100
-### CS50x & CS50P & CS50W 
-### Udemy CPP & DSA
-### Udemy JavaScript & TypeScript
-### Udemy NodeJs & Backend Development
-### Udemy Express.Js & MongoDB
-### Udemy Networking and Linux Fundamentals 
+## Education  
+
+### American University of Iraq, Sulaimani (AUIS)  
+**Full-Ride Scholarship Recipient**  
+Attended AUIS on a full-ride scholarship but withdrew due to administrative inefficiencies, subpar dormitory conditions, and a curriculum that did not align with my advanced proficiency in computer science.  
+
+### Baghdad College High School  
+**High School Diploma – 98/100**  
+
+### Additional Learning  
+**CS50x, CS50P, CS50W**  
+Self-taught programmer with extensive coursework in computer science, mathematics, and the mentioned technologies through Udemy, edX, Coursera, and MIT OCW.  
+
 
 ## Academic Achievements and Professional Development
 
