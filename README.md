@@ -48,7 +48,7 @@ SQL Server Management Studio, Entity Framework (EF) Core, Sequelize, Redis, Post
 
 ### American University of Iraq, Sulaimani (AUIS)  
 **Full-Ride Scholarship Recipient**  
-Attended AUIS on a full-ride scholarship but withdrew due to administrative inefficiencies, subpar dormitory conditions, and a curriculum that did not align with my advanced proficiency in computer science. I subsequently pursued self-taught studies and worked on various personal projects to enhance my knowledge and skills in backend development.
+Attended AUIS on a full-ride scholarship but withdrew due to administrative inefficiencies, subpar dormitory conditions, and a curriculum that did not align with my advanced proficiency in computer science. I subsequently pursued self-taught studies and worked on various personal and professional projects to enhance my knowledge and skills in backend development.
 
 ### Baghdad College High School  
 **High School Diploma – 98/100**  
