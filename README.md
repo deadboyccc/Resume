@@ -4,6 +4,15 @@
 
 ## Experience
 
+### FFC | Baghdad, Iraq
+
+**Backend Developer** | February 2025 - Present
+
+- Integrated core financial business logic into backend systems for a mobile fintech application, ensuring seamless functionality and data integrity.
+- Designed decoupled architectures to secure sensitive financial data and reduce API exposure, enhancing overall system security.
+- Developed a modular backend API framework to support audit and error-check processes, improving system reliability and compliance.
+- Experimented with scalable solutions using both local and cloud databases to ensure data reliability and high availability.
+
 ### CodeCraft | Baghdad, Iraq
 
 **Backend Developer** | June 2024 - Present
