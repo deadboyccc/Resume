@@ -39,15 +39,16 @@
 
 ## Skills
 
-- **Languages & Technologies**: JavaScript, TypeScript, C/C++, C#, Python, ASP.NET Core, Node.js, ExpressJS, Jest, MongoDB, Mongoose, SQL, PostgreSQL, sequelize, Redis, Postman, GraphQL, PM2, Docker, Git, Github, SocketIO, Nginx, Apache Kafka, RabbitMQ
+- **Languages & Technologies**: JavaScript, TypeScript, C/C++, C#, Python, ASP.NET Core, Node.js, ExpressJS, Jest, MongoDB, Mongoose, SQL, PostgreSQL, Microsoft SQL Server, 
+SQL Server Management Studio, Entity Framework (EF) Core, Sequelize, Redis, Postman, GraphQL, PM2, Docker, Git, GitHub, SocketIO, Nginx, Apache Kafka, RabbitMQ
 
-- **Concepts**: Authentication & Authorization, DSA, Design Patterns, Data Modeling, REST APIs, Microservices, Event-Driven Architecture, Unit Testing, SOLID, Clean Code, AGILE, Websocket
+- **Concepts**: Authentication & Authorization, DSA, Design Patterns, Data Modeling, REST APIs, Microservices, Event-Driven Architecture, Unit Testing, SOLID, Clean Code, AGILE, Websocket, Enterprise Resource Planning (ERP), FinTech
 
 ## Education  
 
 ### American University of Iraq, Sulaimani (AUIS)  
 **Full-Ride Scholarship Recipient**  
-Attended AUIS on a full-ride scholarship but withdrew due to administrative inefficiencies, subpar dormitory conditions, and a curriculum that did not align with my advanced proficiency in computer science.  
+Attended AUIS on a full-ride scholarship but withdrew due to administrative inefficiencies, subpar dormitory conditions, and a curriculum that did not align with my advanced proficiency in computer science. I subsequently pursued self-taught studies and worked on various personal projects to enhance my knowledge and skills in backend development.
 
 ### Baghdad College High School  
 **High School Diploma – 98/100**  
@@ -55,7 +56,6 @@ Attended AUIS on a full-ride scholarship but withdrew due to administrative inef
 ### Additional Learning  
 **CS50x, CS50P, CS50W**  
 Self-taught programmer with extensive coursework in computer science, mathematics, and the mentioned technologies through Udemy, edX, Coursera, and MIT OCW.  
-
 
 ## Academic Achievements and Professional Development
 
@@ -75,8 +75,7 @@ I have worked on diverse projects, including an e-commerce API with payment inte
 
 I am committed to continuous learning and improvement, always eager to incorporate the latest best practices and technologies into my projects. My goal is to deliver impactful solutions while growing as a versatile backend developer, ready to take on complex challenges and build innovative systems.
 
-
 ## Contact
 
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/deadboyccc)
-* **GitHub:** [GitHub](https://github.com/deadboyccc)
+* **LinkedIn**: [linkedin.com/in/deadboyccc](https://www.linkedin.com/in/deadboyccc)
+* **GitHub**: [github.com/deadboyccc](https://github.com/deadboyccc)
