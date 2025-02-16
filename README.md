@@ -79,3 +79,5 @@ I am committed to continuous learning and improvement, always eager to incorpora
 
 * **LinkedIn**: [linkedin.com/in/deadboyccc](https://www.linkedin.com/in/deadboyccc)
 * **GitHub**: [github.com/deadboyccc](https://github.com/deadboyccc)
+* **Email**: ahmed.mohammed.ali9999@gmail.com (Preferred contact method)
+* **Phone**: +9647711455264 *(Available via WhatsApp messages only. Please avoid calls.)*
