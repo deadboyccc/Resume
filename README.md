@@ -10,7 +10,7 @@
 
 - Integrating core financial business logic into a mobile fintech application's backend.
 - Integrating an ERP system into a dedicated API (from successful proof of concept to full backend development for financial application services).
-- Actively learning financial terms (KYB, KYT, AML, MSME Financing, Credit Score) and business financial logic to enhance tech integration and drive digital transformation.
+- Actively learning financial terms (KYC, KYB, KYT, AML, MSME Financing, Credit Score) and business financial logic to enhance tech integration and drive digital transformation.
 - Designing decoupled architectures to secure sensitive data and reduce API exposure.
 - Developing a modular backend API framework for audit and error-check processes.
 - Experimenting with scalable solutions using local and cloud databases for data reliability.
