@@ -8,10 +8,12 @@
 
 **Backend Developer** | February 2025 - Present
 
-- Integrated core financial business logic into backend systems for a mobile fintech application, ensuring seamless functionality and data integrity.
-- Designed decoupled architectures to secure sensitive financial data and reduce API exposure, enhancing overall system security.
-- Developed a modular backend API framework to support audit and error-check processes, improving system reliability and compliance.
-- Experimented with scalable solutions using both local and cloud databases to ensure data reliability and high availability.
+- Integrating core financial business logic into a mobile fintech application's backend.
+- Integrating an ERP system into a dedicated API (from successful proof of concept to full backend development for financial application services).
+- Actively learning financial terms (KYB, KYT, AML, MSME Financing, Credit Score) and business financial logic to enhance tech integration and drive digital transformation.
+- Designing decoupled architectures to secure sensitive data and reduce API exposure.
+- Developing a modular backend API framework for audit and error-check processes.
+- Experimenting with scalable solutions using local and cloud databases for data reliability.
 
 ### CodeCraft | Baghdad, Iraq
 
@@ -77,7 +79,7 @@ I am committed to continuous learning and improvement, always eager to incorpora
 
 ## Contact
 
-* **LinkedIn**: [linkedin.com/in/deadboyccc](https://www.linkedin.com/in/deadboyccc)
-* **GitHub**: [github.com/deadboyccc](https://github.com/deadboyccc)
+* **LinkedIn**: [linkedin](https://www.linkedin.com/in/deadboyccc)
+* **GitHub**: [github](https://github.com/deadboyccc)
 * **Email**: ahmed.mohammed.ali9999@gmail.com (Preferred contact method)
 * **Phone**: +9647711455264 *(Available via WhatsApp messages only. Please avoid calls.)*
