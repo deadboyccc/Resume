@@ -14,7 +14,7 @@ Backend Developer with extensive experience in designing, developing, and mainta
 
 ### QiCard | Baghdad, Iraq
 **Integration Engineer** | Onsite | March 2025 - Present  
-- Acquiring Mule ESB skills for enterprise integrations.
+- Acquiring Mule ESB skills for enterprise integrations and API-led connectivity by completing the Anypoint Platform Development Fundamentals (DEX401) course.
 
 ### FFC | Baghdad, Iraq
 **Backend Developer** | Hybrid | February 2025 - March 2025  
