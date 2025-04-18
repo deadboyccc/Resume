@@ -49,7 +49,7 @@ Backend Developer with extensive experience in designing, developing, and mainta
 JavaScript, TypeScript, C/C++, C#, Java, Python, ASP.NET Core, Node.js, Spring Framework, NestJs, Express.js, Jest, MongoDB, Mongoose, SQL, PostgreSQL, Microsoft SQL Server, SQL Server Management Studio, Entity Framework Core, Hibernate, Sequelize, Redis, Postman, GraphQL, SOAP, PM2, Docker, Git, GitHub, Socket.IO, Nginx, Apache Kafka, RabbitMQ
 
 **Concepts**:  
-Authentication & Authorization, Data Structures & Algorithms, Design Patterns, Data Modeling, REST APIs, SOAP APIs, gRPC APIs, Microservices Architecture, Event-Driven Architecture, Unit Testing, SOLID Principles, Clean Code, Agile Methodologies, WebSockets, ERP Integration, FinTech, API-led Connectivity, Dependency Intejection
+Authentication & Authorization, Data Structures & Algorithms, Design Patterns, Data Modeling, REST APIs, SOAP APIs, gRPC APIs, Microservices Architecture, Event-Driven Architecture, Unit Testing, SOLID Principles, Clean Code, Agile Methodologies, WebSockets, ERP Integration, FinTech, API-led Connectivity, Dependency Injection
 
 ## Education
 
