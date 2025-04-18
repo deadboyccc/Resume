@@ -1,72 +1,72 @@
 # Ahmed Ali
 
-**Phone**: +9647711455264 (WhatsApp only)  
+**Phone**: +964 771 145 5264 (WhatsApp only)  
 **Email**: [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com)  
 **Location**: Baghdad, Iraq  
 **LinkedIn**: [linkedin.com/in/deadboyccc](https://www.linkedin.com/in/deadboyccc)  
-**GitHub**: [github.com/deadboyccc](https://github.com/deadboyccc)
+**GitHub**: [github.com/deadboyccc](https://github.com/deadboyccc)  
 
 ## Professional Summary
 
-Backend Developer with extensive experience in designing, developing, and maintaining scalable SOAP, RESTful, gRPC, and GraphQL APIs. Proficient in Node.js, Express.js, NestJs, TypeScript, C/C++, and ASP.NET Core, with a strong foundation in computer science and low-level programming. Experienced in implementing microservices architecture, integrating complex financial systems, and deploying robust security protocols to drive digital transformation in fintech and ERP environments.
+Backend Developer experienced in designing, developing, and maintaining scalable SOAP, RESTful, gRPC, and GraphQL APIs. Proficient in Node.js, Express.js, NestJS, TypeScript, C/C++, and ASP.NET Core, with a strong computer‑science foundation and expertise in low‑level programming. Skilled in implementing microservices architectures, integrating complex financial systems, and deploying robust security protocols to drive digital transformation in fintech and ERP environments.
 
 ## Experience
 
-### QiCard | Baghdad, Iraq
-**Integration Engineer** | Onsite | March 2025 - Present  
-- Acquiring Mule ESB skills for enterprise integrations and API-led connectivity by completing the Anypoint Platform Development Fundamentals (DEX401) course.
-- Worked on integration and middleware tasks related to payment gateways and merchants' financial processes, adhering to best practices and comprehensive documentation.
-- Analyzed technical documentaiton, DataWeave and Java source code to implement solutions that align with the project flow of development and the Software Development Life Cycle (SDLC).
-- Collaborated with diverse international teams from Egypt and the UAE to align CI/CD pipelines with project requirements, emphasizing effective communication and timely Jira task updates.
+### QiCard | Baghdad, Iraq  
+**Integration Engineer** | Onsite | March 2025 – Present  
+- Completing MuleSoft’s Anypoint Platform Development Fundamentals (DEX401) course to master Mule ESB for enterprise integrations and API‑led connectivity.  
+- Working on integration and middleware tasks for payment gateways and merchants’ financial processes, adhering to best practices and comprehensive documentation.  
+- Analyzing technical documentation, DataWeave scripts, and Java source code to implement solutions aligned with SDLC workflows.  
+- Collaborating with international teams from Egypt and the UAE to align CI/CD pipelines with project requirements, ensuring clear communication and timely Jira updates.  
 
-### FFC | Baghdad, Iraq
-**Backend Developer** | Hybrid | February 2025 - March 2025  
-- Integrated core financial business logic into a mobile fintech application's backend.  
-- Transitioned an ERP system from a proof of concept to a fully operational API.  
+### FFC | Baghdad, Iraq  
+**Backend Developer** | Hybrid | February 2025 – March 2025  
+- Integrated core financial business logic into a mobile fintech application’s backend.  
+- Transitioned an ERP system from proof of concept to a fully operational API.  
 - Designed decoupled architectures to secure sensitive data and minimize API exposure.  
-- Developed a modular backend framework with comprehensive audit and error-handling processes.  
-- Explored scalable solutions using both local and cloud databases for data reliability.
+- Developed a modular backend framework with comprehensive audit trails and error‑handling processes.  
+- Researched scalable solutions using both local and cloud databases to enhance data reliability.  
 
-### CodeCraft | Baghdad, Iraq
-**Backend Developer** | Hybrid | June 2024 - March 2025  
-- Designed, developed, and maintained robust RESTful, SOAP, and GraphQL APIs using Node.js, Express.js, and TypeScript.  
-- Implemented JWT-based authentication and authorization mechanisms.  
-- Optimized database performance with Mongoose (MongoDB) and Sequelize (PostgreSQL).  
-- Conducted comprehensive unit and integration testing using Jest.  
-- Applied design patterns and data modeling best practices to enhance performance.  
-- Leveraged low-level networking experience with C++ to improve system efficiency.  
-- Developed microservices architecture to improve scalability and maintainability.
+### CodeCraft | Baghdad, Iraq  
+**Backend Developer** | Hybrid | June 2024 – March 2025  
+- Designed, developed, and maintained RESTful, SOAP, and GraphQL APIs using Node.js, Express.js, and TypeScript.  
+- Implemented JWT‑based authentication and authorization mechanisms for multiple services.  
+- Optimized MongoDB performance using Mongoose and PostgreSQL performance using Sequelize.  
+- Conducted unit and integration testing with Jest to ensure code quality and regression safety.  
+- Applied design patterns and data‑modeling best practices to enhance system performance.  
+- Leveraged low‑level networking expertise in C++ to improve throughput and efficiency.  
+- Architected microservices to boost scalability and maintainability across projects.  
 
-### United Horizon | Baghdad, Iraq
-**IT Support Specialist** | Onsite | January 2022 - February 2023  
-- Provided first and second-line technical support for hardware, software, and network issues.  
-- Assisted with the installation, configuration, and maintenance of computer systems and peripherals.  
-- Maintained and updated the company’s software and hardware inventory.
+### United Horizon | Baghdad, Iraq  
+**IT Support Specialist** | Onsite | January 2022 – February 2023  
+- Provided first‑ and second‑line technical support for hardware, software, and network issues.  
+- Assisted with installation, configuration, and maintenance of computer systems and peripherals.  
+- Maintained and updated the company’s software and hardware inventory.  
 
 ## Skills
 
-**Languages & Technologies**:  
-JavaScript, TypeScript, C/C++, C#, Java, Python, ASP.NET Core, Node.js, Spring Framework, NestJs, Express.js, Jest, MongoDB, Mongoose, SQL, PostgreSQL, Microsoft SQL Server, SQL Server Management Studio, Entity Framework Core, Hibernate, Sequelize, Redis, Postman, GraphQL, SOAP, PM2, Docker, Git, GitHub, Socket.IO, Nginx, Apache Kafka, RabbitMQ
+**Languages & Technologies**  
+JavaScript, TypeScript, C/C++, C#, Java, Python, ASP.NET Core, Node.js, NestJS, Express.js, Spring Framework, Jest, MongoDB, Mongoose, SQL, PostgreSQL, Microsoft SQL Server, Entity Framework Core, Hibernate, Sequelize, Redis, Docker, Kubernetes, Nginx, Apache Kafka, RabbitMQ, GraphQL, SOAP, REST, gRPC, PM2, Git, GitHub, Postman
 
-**Concepts**:  
-Authentication & Authorization, Data Structures & Algorithms, Design Patterns, Data Modeling, REST APIs, SOAP APIs, gRPC APIs, Microservices Architecture, Event-Driven Architecture, Unit Testing, SOLID Principles, Clean Code, Agile Methodologies, WebSockets, ERP Integration, FinTech, API-led Connectivity, Dependency Injection
+**Concepts**  
+Authentication & Authorization, Data Structures & Algorithms, Design Patterns, Data Modeling, Microservices Architecture, Event‑Driven Architecture, Unit Testing, SOLID Principles, Clean Code, Agile Methodologies, WebSockets, ERP Integration, FinTech, API‑led Connectivity, Dependency Injection
 
 ## Education
 
-### American University of Iraq, Sulaimani (AUIS)
-- **Full-Ride Scholarship Recipient**  
-  Earned a full-ride scholarship and transitioned to self-directed learning to further develop advanced computer science skills and professional goals.
+### American University of Iraq, Sulaimani (AUIS)  
+**Full‑Ride Scholarship Recipient**
 
-### Baghdad College High School
-- **High School Diploma**: 98/100
+### Baghdad College High School  
+**High School Diploma** (GPA: 98/100)
 
-### Additional Learning
-- **CS50x, CS50P, CS50W**  
-  Completed comprehensive coursework in computer science, mathematics, and programming through platforms such as Udemy, edX, Coursera, and MIT OCW.
+### Additional Learning  
+- CS50x, CS50P, CS50W (Harvard’s introductory courses in computer science, Python, and web programming)  
+- Various professional courses on Udemy, edX, Coursera, and MIT OCW covering backend development, microservices, and cloud technologies  
 
-## Academic Achievements and Professional Development
+## Academic Achievements & Projects
 
 - Began programming at age 13, driven by a passion for technology and problem-solving.  
-- Specialized in backend development with a focus on Node.js, Express.js, NestJs, ASP.NET Core, Microservices, PostgreSQL, MongoDB, and TypeScript.  
-- Created scalable applications using APIs and messaging for e-commerce (payment), real-time blogging, ERP integration, and RabbitMQ microservices. Additional projects can be viewed on my [GitHub](https://github.com/deadboyccc).  
-- Committed to continuous learning and staying updated with industry best practices and emerging technologies.
+- Specialized in backend development: Node.js, Express.js, NestJS, ASP.NET Core, microservices, PostgreSQL, MongoDB, and TypeScript.  
+- Built scalable applications using APIs and messaging for e-commerce payments, real-time blogging platforms, ERP integration, and RabbitMQ‑based microservices.  
+- Contributed to open‑source projects and personal side projects showcased on [GitHub](https://github.com/deadboyccc).  
+- Committed to continuous learning and staying current with industry best practices and emerging technologies.  
