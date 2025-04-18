@@ -54,7 +54,8 @@ Authentication & Authorization, Data Structures & Algorithms, Design Patterns, D
 ## Education
 
 ### American University of Iraq, Sulaimani (AUIS)  
-**Full‑Ride Scholarship Recipient**
+**Full-Ride Scholarship Recipient**  
+Earned a full-ride scholarship and transitioned to self-directed learning to further develop advanced computer science skills and professional goals.
 
 ### Baghdad College High School  
 **High School Diploma** (GPA: 98/100)
