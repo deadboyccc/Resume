@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Backend Developer with extensive experience in designing, developing, and maintaining scalable SOAP, RESTful, and GraphQL APIs. Proficient in Node.js, Express.js, NestJs, TypeScript, C/C++, and ASP.NET Core, with a strong foundation in computer science and low-level programming. Experienced in implementing microservices architecture, integrating complex financial systems, and deploying robust security protocols to drive digital transformation in fintech and ERP environments.
+Backend Developer with extensive experience in designing, developing, and maintaining scalable SOAP, RESTful, gRPC, and GraphQL APIs. Proficient in Node.js, Express.js, NestJs, TypeScript, C/C++, and ASP.NET Core, with a strong foundation in computer science and low-level programming. Experienced in implementing microservices architecture, integrating complex financial systems, and deploying robust security protocols to drive digital transformation in fintech and ERP environments.
 
 ## Experience
 
@@ -46,10 +46,10 @@ Backend Developer with extensive experience in designing, developing, and mainta
 ## Skills
 
 **Languages & Technologies**:  
-JavaScript, TypeScript, C/C++, C#, Python, ASP.NET Core, Node.js, NestJs, Express.js, Jest, MongoDB, Mongoose, SQL, PostgreSQL, Microsoft SQL Server, SQL Server Management Studio, Entity Framework Core, Sequelize, Redis, Postman, GraphQL, SOAP, PM2, Docker, Git, GitHub, Socket.IO, Nginx, Apache Kafka, RabbitMQ
+JavaScript, TypeScript, C/C++, C#, Java, Python, ASP.NET Core, Node.js, Spring Framework, NestJs, Express.js, Jest, MongoDB, Mongoose, SQL, PostgreSQL, Microsoft SQL Server, SQL Server Management Studio, Entity Framework Core, Hibernate, Sequelize, Redis, Postman, GraphQL, SOAP, PM2, Docker, Git, GitHub, Socket.IO, Nginx, Apache Kafka, RabbitMQ
 
 **Concepts**:  
-Authentication & Authorization, Data Structures & Algorithms, Design Patterns, Data Modeling, REST APIs, SOAP APIs, Microservices Architecture, Event-Driven Architecture, Unit Testing, SOLID Principles, Clean Code, Agile Methodologies, WebSockets, ERP Integration, FinTech, API-led Connectivity
+Authentication & Authorization, Data Structures & Algorithms, Design Patterns, Data Modeling, REST APIs, SOAP APIs, gRPC APIs, Microservices Architecture, Event-Driven Architecture, Unit Testing, SOLID Principles, Clean Code, Agile Methodologies, WebSockets, ERP Integration, FinTech, API-led Connectivity, Dependency Intejection
 
 ## Education
 
