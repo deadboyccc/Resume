@@ -13,11 +13,14 @@ Backend Developer experienced in designing, developing, and maintaining scalable
 ## Experience
 
 ### QiCard | Baghdad, Iraq  
-**Integration Engineer** | Onsite | March 2025 – Present  
-- Completing MuleSoft’s Anypoint Platform Development Fundamentals (DEX401) course to master Mule ESB for enterprise integrations and API‑led connectivity.  
-- Working on integration and middleware tasks for payment gateways and merchants’ financial processes, adhering to best practices and comprehensive documentation.  
-- Analyzing technical documentation, DataWeave scripts, and Java source code to implement solutions aligned with SDLC workflows.  
-- Collaborating with international teams from Egypt and the UAE to align CI/CD pipelines with project requirements, ensuring clear communication and timely Jira updates.  
+- Completed MuleSoft’s Anypoint Platform Development Fundamentals (DEX401) course, gaining expertise in Mule ESB for enterprise integrations and API-led connectivity.  
+- Participated in API design sessions, defining API resources, message schemas, and formats, and designed API specifications using RAML in Anypoint Platform.  
+- Developed integration and middleware solutions for payment gateways and merchants' financial processes, adhering to best practices and comprehensive documentation.  
+- Implemented API-led connectivity by building System and Process APIs, while following coding standards and utilizing common fragments for reusability.  
+- Analyzed technical documentation, DataWeave scripts, and Java source code to deliver solutions aligned with SDLC workflows.  
+- Utilized MuleSoft connectors, expressions, filters, and exception handling, and employed CI/CD tools like Maven and Bitbucket for development and deployment.  
+- Collaborated with international teams from Egypt and the UAE to align CI/CD pipelines with project requirements, ensuring clear communication, timely Jira updates, and application log monitoring with Dynatrace.  
+- Followed Agile methodology throughout the project lifecycle.
 
 ### FFC | Baghdad, Iraq  
 **Backend Developer** | Hybrid | February 2025 – March 2025  
