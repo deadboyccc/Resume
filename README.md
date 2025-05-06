@@ -12,7 +12,8 @@ Backend Developer experienced in designing, developing, and maintaining scalable
 
 ## Experience
 
-### QiCard | Baghdad, Iraq  
+### QiCard | Baghdad, Iraq
+**Integration Engineer** | Onsite | March 2025 – Present  
 - Completed MuleSoft’s Anypoint Platform Development Fundamentals (DEX401) course, gaining expertise in Mule ESB for enterprise integrations and API-led connectivity.  
 - Participated in API design sessions, defining API resources, message schemas, and formats, and designed API specifications using RAML in Anypoint Platform.  
 - Developed integration and middleware solutions for payment gateways and merchants' financial processes, adhering to best practices and comprehensive documentation.  
