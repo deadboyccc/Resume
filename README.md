@@ -32,7 +32,7 @@ Backend Developer experienced in designing, developing, and maintaining scalable
 - Researched scalable solutions using both local and cloud databases to enhance data reliability.  
 
 ### CodeCraft | Baghdad, Iraq  
-**Backend Developer** | Hybrid | June 2024 – March 2025  
+**Backend Developer** | Remote | June 2024 – March 2025  
 - Designed, developed, and maintained RESTful, SOAP, and GraphQL APIs using Node.js, Express.js, and TypeScript.  
 - Implemented JWT‑based authentication and authorization mechanisms for multiple services.  
 - Optimized MongoDB performance using Mongoose and PostgreSQL performance using Sequelize.  
