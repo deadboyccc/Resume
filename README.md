@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Backend Developer experienced in designing, developing, and maintaining scalable SOAP, RESTful, gRPC, and GraphQL APIs. Proficient in Node.js, Express.js, NestJS, TypeScript, C/C++, and ASP.NET Core, with a strong computer‑science foundation and expertise in low‑level programming. Skilled in implementing microservices architectures, integrating complex financial systems, and deploying robust security protocols to drive digital transformation in fintech and ERP environments.
+Experienced Backend Developer with extensive experience in developing, integrating, and maintaining secure and scalable SOAP, RESTful, gRPC, and GraphQL APIs. Proficient in Node.js (Express.js, NestJS) and ASP.NET Core, backed by a strong computer science foundation in low-level programming, backend networking, and scaling solutions. Skilled in implementing microservices architectures, integrating complex financial systems, and deploying robust security protocols to drive digital transformation in FinTech and ERP environments. Currently expanding expertise into the Spring Framework and Java ecosystem, while also exploring event-driven microservices and enterprise integration
 
 ## Experience
 
@@ -50,10 +50,10 @@ Backend Developer experienced in designing, developing, and maintaining scalable
 ## Skills
 
 **Languages & Technologies**  
-JavaScript, TypeScript, C/C++, C#, Java, Python, ASP.NET Core, Node.js, NestJS, Express.js, Spring Framework, Jest, MongoDB, Mongoose, SQL, PostgreSQL, Microsoft SQL Server, Entity Framework Core, Hibernate, Sequelize, Redis, Docker, Kubernetes, Nginx, Apache Kafka, RabbitMQ, GraphQL, SOAP, REST, gRPC, PM2, Git, GitHub, Postman
+JavaScript, TypeScript, C/C++, C#, Java, Python, ASP.NET Core, Node.js, NestJS, Express.js, Spring Framework, JUnit, Jest, MongoDB, Mongoose, SQL, PostgreSQL, Microsoft SQL Server, Entity Framework Core, Hibernate, Sequelize, Redis, Docker, Kubernetes, Nginx, Apache Kafka, RabbitMQ, GraphQL, SOAP, REST, gRPC, PM2, Git, GitHub, Postman
 
 **Concepts**  
-Authentication & Authorization, Data Structures & Algorithms, Design Patterns, Data Modeling, Microservices Architecture, Event‑Driven Architecture, Unit Testing, SOLID Principles, Clean Code, Agile Methodologies, WebSockets, ERP Integration, FinTech, API‑led Connectivity, Dependency Injection
+Authentication & Authorization, Data Structures & Algorithms, Design Patterns, Data Modeling, Microservices Architecture, Event-Driven Architecture, Unit Testing, SOLID Principles, Clean Code, Agile Methodologies, WebSockets, ERP Integration, FinTech, API-led Connectivity, Dependency Injection, Reactive Programming, Test-Driven Development
 
 ## Education
 
