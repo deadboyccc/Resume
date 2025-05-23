@@ -74,8 +74,7 @@ Earned a full-ride scholarship and transitioned to self-directed learning to fur
 
 ## Academic Achievements & Projects
 
-- Began programming at age 13, driven by a passion for technology and problem-solving.  
-- Specialized in backend development: Node.js, Express.js, NestJS, ASP.NET Core, microservices, event-driven architecture, PostgreSQL, MongoDB, and TypeScript.  
+- Began programming at age 13 with the BASIC language in a high school class, solving puzzles articulated by our passionate CS teacher that ignited a lifelong passion for problem-solving and coding.
+- My backend development expertise, encompassing Node.js, ASP.NET Core, Spring Framework, microservices, event-driven architecture, Enterprise Integration, PostgreSQL, MongoDB, and TypeScript, has been extensively applied across my professional work, personal projects, and open-source contributions showcased on [GitHub](https://github.com/deadboyccc).
 - Built and scaled applications for e-commerce payments, real-time blogging, and ERP integration, utilizing both APIs and RabbitMQ-based microservices.
-- Contributed to open‑source projects and personal side projects showcased on [GitHub](https://github.com/deadboyccc).  
 - My passion, curiosity, and love of learning fuel my commitment to continuous professional development, ensuring I remain current with industry best practices and emerging technologies.
