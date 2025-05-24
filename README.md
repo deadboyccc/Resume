@@ -1,10 +1,10 @@
 # Ahmed Mohammed Ali
 
-**Phone**: +964 771 145 5264 (WhatsApp only)
-**Email**: [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com)
-**Location**: Baghdad, Iraq
-**LinkedIn**: [linkedin.com/in/deadboyccc](https://www.linkedin.com/in/deadboyccc)
-**GitHub**: [github.com/deadboyccc](https://github.com/deadboyccc)
+**Phone**: +964 771 145 5264 (WhatsApp only)  
+**Email**: [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com)  
+**Location**: Baghdad, Iraq  
+**LinkedIn**: [linkedin.com/in/deadboyccc](https://www.linkedin.com/in/deadboyccc)  
+**GitHub**: [github.com/deadboyccc](https://github.com/deadboyccc)  
 
 ---
 
