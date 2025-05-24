@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Experienced Backend Developer with extensive experience in developing, integrating, and maintaining secure and scalable SOAP, RESTful, gRPC, and GraphQL APIs. Proficient in Node.js (Express.js, NestJS) and ASP.NET Core, backed by a strong computer science foundation in low-level programming, backend networking, and scaling solutions. Skilled in implementing microservices architectures, integrating complex financial systems, and deploying robust security protocols to drive digital transformation in FinTech and ERP environments. Currently expanding expertise into the Spring Framework and Java ecosystem, while also exploring event-driven microservices and enterprise integration
+Experienced Backend Developer with extensive experience in developing, integrating, and maintaining secure and scalable SOAP, RESTful, gRPC, and GraphQL APIs. Proficient in Node.js (Express.js, NestJS), ASP.NET Core and Spring Framework, backed by a strong computer science foundation in low-level programming, backend networking, and scaling solutions. Skilled in implementing microservices architectures, integrating complex financial systems, and deploying robust security protocols to drive digital transformation in FinTech and ERP environments. Currently expanding expertise into the Spring Framework and Java ecosystem, while also exploring event-driven microservices and enterprise integration
 
 ---
 
