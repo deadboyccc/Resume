@@ -6,9 +6,13 @@
 **LinkedIn**: [linkedin.com/in/deadboyccc](https://www.linkedin.com/in/deadboyccc)  
 **GitHub**: [github.com/deadboyccc](https://github.com/deadboyccc)  
 
+---
+
 ## Professional Summary
 
 Experienced Backend Developer with extensive experience in developing, integrating, and maintaining secure and scalable SOAP, RESTful, gRPC, and GraphQL APIs. Proficient in Node.js (Express.js, NestJS) and ASP.NET Core, backed by a strong computer science foundation in low-level programming, backend networking, and scaling solutions. Skilled in implementing microservices architectures, integrating complex financial systems, and deploying robust security protocols to drive digital transformation in FinTech and ERP environments. Currently expanding expertise into the Spring Framework and Java ecosystem, while also exploring event-driven microservices and enterprise integration
+
+---
 
 ## Experience
 
@@ -31,8 +35,6 @@ Experienced Backend Developer with extensive experience in developing, integrati
 - Developed a modular backend framework with comprehensive audit trails and robust error-handling processes, greatly improving system stability.
 - Conducted in-depth research into scalable database solutions (local and cloud), identifying optimal strategies that enhanced data reliability and supported future growth.
 
----
-
 ### CodeCraft | Baghdad, Iraq
 **Backend Developer** | Remote - Part-time | June 2024 – March 2025
 - Designed, developed, and maintained multiple RESTful, SOAP, and GraphQL APIs using Node.js, Express.js, and TypeScript, serving critical business functions.
@@ -43,13 +45,13 @@ Experienced Backend Developer with extensive experience in developing, integrati
 - Applied deep low-level networking expertise in C++ to significantly improve system throughput and enhance operational efficiency.
 - Architected and deployed microservices that increased application scalability and improved feature development velocity due to enhanced maintainability.
 
----
-
 ### United Horizon | Baghdad, Iraq
 **IT Support Specialist** | Onsite - Full-time | January 2022 – February 2023
 - Provided first- and second-line technical support to a large employee base, resolving hardware, software, and network issues with a high resolution rate on first contact.
 - Assisted in the installation, configuration, and routine maintenance of numerous computer systems and associated peripherals, ensuring operational readiness.
 - Managed and updated the company's software and hardware inventory, improving asset tracking and resource allocation.
+
+---
 
 ## Skills
 
@@ -58,6 +60,8 @@ JavaScript, TypeScript, C/C++, C#, Java, Python, ASP.NET Core, Node.js, NestJS, 
 
 **Concepts**  
 Authentication & Authorization, Data Structures & Algorithms, Design Patterns, Data Modeling, Microservices Architecture, Event-Driven Architecture, Unit Testing, SOLID Principles, Clean Code, Agile Methodologies, WebSockets, ERP Integration, FinTech, API-led Connectivity, Dependency Injection, Reactive Programming, Test-Driven Development
+
+---
 
 ## Education
 
@@ -71,6 +75,8 @@ Earned a full-ride scholarship and transitioned to self-directed learning to fur
 ### Additional Learning  
 - CS50x, CS50P, CS50W (Harvard’s introductory courses in computer science, Python, and web programming)  
 - Various professional courses on Udemy, edX, Coursera, and MIT OCW covering backend development, microservices, and cloud technologies  
+
+---
 
 ## Academic Achievements & Projects
 
