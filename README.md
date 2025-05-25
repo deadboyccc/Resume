@@ -20,7 +20,7 @@ Experienced Backend Developer with extensive experience in developing, integrati
 **Integration Engineer** | Onsite - Full-time | March 2025 – Present
 - Completed MuleSoft’s Anypoint Platform Development Fundamentals (DEX401) course, gaining expertise in Mule ESB for enterprise integrations and API-led connectivity.
 - Participated in API design sessions, defining API resources, message schemas, and formats, and designed API specifications using RAML in Anypoint Platform.
-- Developed integration and middleware solutions for payment gateways and merchants' financial processes, adhering to best practices and **creating** comprehensive documentation.
+- Developed integration and middleware solutions for payment gateways and merchants' financial processes, adhering to best practices and creating comprehensive documentation.
 - Implemented API-led connectivity by building System and Process APIs, while following coding standards and utilizing common fragments for reusability.
 - Analyzed technical documentation, DataWeave scripts, and Java source code to deliver solutions aligned with SDLC workflows.
 - Utilized MuleSoft connectors, expressions, filters, and exception handling, and employed CI/CD tools like Maven and Bitbucket for development and deployment.
