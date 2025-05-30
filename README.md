@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Experienced Backend Developer skilled in building secure, scalable APIs (SOAP, REST, gRPC, GraphQL) using Node.js, ASP.NET Core, and Spring. Strong foundation in low-level programming and backend systems, with expertise in microservices, financial system integration, and security in FinTech and ERP. Currently deepening knowledge in the Spring ecosystem and event-driven microservices.
+Experienced Backend Developer skilled in building, integrating, and maintaining secure, scalable APIs (SOAP, REST, gRPC, GraphQL) using Node.js, ASP.NET Core, and Spring Framework. Strong foundation in low-level programming and backend systems, with expertise in microservices architecture, financial system integration, and security within FinTech and ERP domains. Currently deepening expertise in the Spring ecosystem and event-driven microservices to drive robust, scalable solutions.
 
 ---
 
