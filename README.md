@@ -24,7 +24,8 @@ Experienced Backend Developer skilled in building, integrating, and maintaining 
 - Built System and Process APIs following MuleSoft best practices, with a focus on modularity and reusability through common fragments.  
 - Analyzed technical documentation and source code written in Java and DataWeave to implement solutions aligned with project requirements.  
 - Leveraged MuleSoft connectors, filters, and exception handling features; utilized Maven, Bitbucket, and CI/CD pipelines for versioned, automated deployment.  
-- Worked closely with cross-regional teams from Egypt and the UAE to coordinate deployments and ensure consistent delivery standards.  
+- Worked closely with cross-regional teams from Egypt and the UAE to coordinate deployments and ensure consistent delivery standards.
+- Employed Dynatrace for proactive monitoring, troubleshooting microservices errors, and tracing requests across distributed services to ensure optimal performance and reliability.
 - Followed Agile methodology, contributing to sprint planning, backlog refinement, and delivering features in an iterative environment.
 
 ### FFC | Baghdad, Iraq  
