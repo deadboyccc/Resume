@@ -26,6 +26,7 @@ Experienced Backend Developer skilled in building, integrating, and maintaining 
 - Leveraged MuleSoft connectors, filters, and exception handling features; utilized Maven, Bitbucket, and CI/CD pipelines for versioned, automated deployment.  
 - Worked closely with cross-regional teams from Egypt and the UAE to coordinate deployments and ensure consistent delivery standards.
 - Employed Dynatrace for proactive monitoring, troubleshooting microservices errors, and tracing requests across distributed services to ensure optimal performance and reliability.
+- Used Anypoint Monitoring and Analytics to track System and Process API performance during peak loads, analyzing metrics like throughput, thread counts, JVM memory, and CPU utilization to optimize load balancing and infrastructure scaling.
 - Followed Agile methodology, contributing to sprint planning, backlog refinement, and delivering features in an iterative environment.
 
 ### FFC | Baghdad, Iraq  
