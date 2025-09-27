@@ -10,7 +10,8 @@
 
 ## Professional Summary
 
-Well-rounded Backend Developer with 6+ years of experience designing, integrating, and optimizing secure, scalable APIs (REST, SOAP, GraphQL, gRPC) and distributed systems. Proven expertise in Node.js, Spring Framework, ASP.NET Core, and MuleSoft Anypoint Platform. Strong foundation in low-level programming and system internals, with a focus on microservices architecture, financial system integration, and security within FinTech and ERP domains. Deep interest in DevOps practices, cloud infrastructure (AWS), and performance optimization. Seeking remote or relocation opportunities to contribute to high-impact global teams and drive robust, maintainable engineering solutions.
+Seasoned Backend Developer with 6+ years of experience designing, building, and operating secure, high-performance distributed systems for FinTech and enterprise customers. Proven track record delivering production APIs and integrations (Node.js, Spring Boot, ASP.NET Core, MuleSoft) that process 1,000+ transactions per minute, serve 10k+ active users with 99.9% uptime, and reduce average response times by 25% through targeted performance tuning and observability. Deep expertise in microservices and event-driven architectures, API-led connectivity, ERP integration, and cloud-native practices (Docker, Kubernetes, AWS/GCP), combined with strong CI/CD automation and monitoring skills (Prometheus, OpenTelemetry, Grafana, Dynatrace). Committed to building secure, maintainable systems, mentoring teams, and delivering measurable operational improvements; actively seeking remote or relocation opportunities to drive impact at scale.
+
 
 ---
 
@@ -59,28 +60,31 @@ Well-rounded Backend Developer with 6+ years of experience designing, integratin
 ## Skills
 
 **Programming Languages & Technologies**  
-JavaScript, TypeScript, Java, C#, C/C++, Python, SQL, DataWeave
+JavaScript, TypeScript, Java, C#, C/C++, Python, SQL, DataWeave, Kotlin  
 
 **Frameworks & Platforms**  
-Node.js, NestJS, Express.js, Spring Boot, ASP.NET Core, MuleSoft Anypoint Platform
+Node.js, NestJS, Express.js, Spring Boot, ASP.NET Core, MuleSoft Anypoint Platform, Ktor  
 
 **APIs & Integration**  
-RESTful APIs, SOAP, GraphQL, gRPC, API-Led Connectivity, RabbitMQ, Apache Kafka, ERP & FinTech Integration
+RESTful APIs, SOAP, GraphQL, gRPC, API-Led Connectivity, RabbitMQ, Apache Kafka, ERP & FinTech Integration, Socket.IO  
 
 **Databases & ORM**  
-PostgreSQL, MongoDB, Microsoft SQL Server, Redis, Mongoose, Sequelize, Hibernate, Entity Framework Core
+PostgreSQL, MongoDB, Microsoft SQL Server, MySQL, Redis, Elasticsearch, Mongoose, Sequelize, Hibernate, Entity Framework Core  
 
 **DevOps & Cloud**  
-Docker, Kubernetes, AWS (EC2, EKS), Git, GitHub, Bitbucket, Jenkins, Maven, Nginx, PM2, CI/CD Pipelines
+Docker, Kubernetes, AWS (EC2, EKS), GCP, Git, GitHub, Bitbucket, Jenkins, GitHub Actions, Maven, Gradle, CMake, Linux, Nginx, PM2, CI/CD Pipelines, OpenZeppelin  
 
 **Architectural Patterns & Concepts**  
-Microservices Architecture, Event-Driven Architecture, Domain-Driven Design, Clean Architecture, SOLID Principles, Test-Driven Development, Dependency Injection, Reactive Programming
+Microservices Architecture, Event-Driven Architecture, Domain-Driven Design, Clean Architecture, SOLID Principles, Test-Driven Development, Dependency Injection, Reactive Programming  
 
 **Monitoring & Analytics**  
-Dynatrace, Anypoint Monitoring, Application Performance Monitoring (APM), Logging & Alerting, Distributed Tracing
+Dynatrace, Anypoint Monitoring, Application Performance Monitoring (APM), Logging & Alerting, Distributed Tracing, Kibana, Prometheus, OpenTelemetry, Grafana  
 
 **Testing**  
-JUnit, Jest, Postman, Integration Testing, Unit Testing, Test Containers
+JUnit, Jest, Postman, Integration Testing, Unit Testing, Test Containers  
+
+**Developer Tools & IDEs**  
+Neovim, IntelliJ IDEA, WebStorm, CLion, DataGrip, Visual Studio Code  
 
 ---
 
@@ -116,6 +120,14 @@ Earned a full-ride merit scholarship; voluntarily left to pursue advanced, self-
 - **System Architecture Focus**  
   - Designed a cloud-native microservices reference architecture (Node.js + Spring Boot) for a mock e-commerce platform—showcasing event-driven order processing and horizontal scaling.  
   - Published a technical blog series on Medium detailing migration from monolithic Java apps to Kubernetes microservices, covering CI/CD, observability, and cost optimization.
+
+- **Monitoring & Observability Stack**  
+  - Implemented full observability pipelines using Prometheus, OpenTelemetry, Grafana, and Kibana for distributed systems.  
+  - Created automated alerting rules and dashboards to track microservices health, API latency, and real-time throughput.
+
+- **Developer Tools & Productivity**  
+  - Expert-level usage of IDEs and editors (IntelliJ IDEA, WebStorm, DataGrip, CLion, Neovim, VS Code) to maximize developer workflow.  
+  - Built custom productivity tooling (Neovim configs, JetBrains plugin setups, CI/CD scripts) to standardize development environments across teams.
 
 ---
 
