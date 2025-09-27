@@ -60,7 +60,7 @@ Seasoned Backend Developer with 6+ years building secure, high-performance syste
 ## Skills
 
 **Programming Languages & Technologies**  
-JavaScript, TypeScript, Java, C#, C/C++, Python, SQL, DataWeave, Kotlin  
+JavaScript, TypeScript, Java, Kotlin, C#, C/C++, Python, SQL, DataWeave
 
 **Frameworks & Platforms**  
 Node.js, NestJS, Express.js, Spring Boot, ASP.NET Core, MuleSoft Anypoint Platform, Ktor  
@@ -81,7 +81,7 @@ Microservices Architecture, Event-Driven Architecture, Domain-Driven Design, Cle
 Dynatrace, Anypoint Monitoring, Application Performance Monitoring (APM), Logging & Alerting, Distributed Tracing, Kibana, Prometheus, OpenTelemetry, Grafana  
 
 **Testing**  
-JUnit, Jest, Postman, Integration Testing, Unit Testing, Test Containers  
+JUnit, Mockito, Jest, Postman, Integration Testing, Unit Testing, Test Containers  
 
 **Developer Tools & IDEs**  
 Neovim, IntelliJ IDEA, WebStorm, CLion, DataGrip, Visual Studio Code  
