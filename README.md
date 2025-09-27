@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Seasoned Backend Developer with 6+ years of experience designing, building, and operating secure, high-performance distributed systems for FinTech and enterprise customers. Proven track record delivering production APIs and integrations (Node.js, Spring Boot, ASP.NET Core, MuleSoft) that process 1,000+ transactions per minute, serve 10k+ active users with 99.9% uptime, and reduce average response times by 25% through targeted performance tuning and observability. Deep expertise in microservices and event-driven architectures, API-led connectivity, ERP integration, and cloud-native practices (Docker, Kubernetes, AWS/GCP), combined with strong CI/CD automation and monitoring skills (Prometheus, OpenTelemetry, Grafana, Dynatrace). Committed to building secure, maintainable systems, mentoring teams, and delivering measurable operational improvements; actively seeking remote or relocation opportunities to drive impact at scale.
+Seasoned Backend Developer with 6+ years building secure, high-performance systems for FinTech and enterprise customers. Delivered production APIs and integrations (Node.js, Spring Boot, ASP.NET Core, MuleSoft) that handle 1k+ transactions/min and 10k+ active users while improving latency and reliability through observability-driven tuning (Prometheus, OpenTelemetry, Dynatrace). Expert in cloud-native architecture, API-led connectivity, CI/CD automation, and mentoring engineering teams; open to senior backend or platform roles (remote or relocation).
 
 
 ---
