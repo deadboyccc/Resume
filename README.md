@@ -131,4 +131,29 @@ Earned a full-ride merit scholarship; voluntarily left to pursue advanced, self-
 
 ---
 
-*References available upon request.*  
+## Continuous Learning & Advanced Study
+
+*Dedicated to mastering modern enterprise backend, cloud, and distributed systems architecture.*
+
+-   **Spring Ecosystem:** Spring 6, Spring Boot 3, WebFlux (Reactive), Dependency Injection (DI), Jakarta EE changes.
+-   **Data & Persistence:** Advanced **PostgreSQL** (`EXPLAIN` plan analysis, indexing, replication, partitioning), **Spring JPA/Hibernate**, Spring Data, Transaction Management.
+-   **Microservices & Cloud:** **Spring Cloud** (Service Discovery, Gateway), Resilience4j, **Docker & Kubernetes** (multi-stage builds, Deployments, HPA, Helm), GKE/Cloud Run.
+-   **Messaging & Events:** **Spring Kafka** (Streams, Avro/Schema Registry, exactly-once semantics), **Spring Cloud Stream** (Kafka/RabbitMQ), SAGA patterns, Event-Driven Architecture (EDA).
+-   **Security & APIs:** **Spring Security** (OAuth2/OIDC, JWT, Resource Server), **gRPC** (Protobuf, unary & streaming), REST.
+-   **Tooling & Development:** Advanced **Maven & Gradle** (multi-module, plugins, Kotlin DSL, CI integration), **Spring Testing** (`@SpringBootTest`, **Testcontainers**, MockMvc, JUnit5), **Kotlin** (Coroutines, Ktor, DSLs).
+-   **Emerging Tech:** Exploring **Spring + AI** (model serving, TF Serving/ONNX, async inference).
+
+---
+
+## Interests & Advocacy
+
+A software engineering philosophy shaped by:
+
+-   A commitment to **Test-Driven Development (TDD)** and clean code principles.
+-   Low-level programming (C/C++) and competitive programming for deep performance understanding.
+-   Advocacy for **equal & open education**, mental health awareness, and sustainability/anti-consumerism.
+-   Avid runner and enthusiast for systems thinking.
+
+---
+
+*References available upon request.*
