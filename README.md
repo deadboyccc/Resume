@@ -117,19 +117,29 @@ Seasoned Backend Developer with 6+ years building secure, high-performance syste
 
 ---
 
-## Developer Tools & Productivity
+## Developer Tools & Productivity  
 
-* **IDEs & Editors:** Neovim, IntelliJ IDEA, WebStorm, CLion, DataGrip, VS Code
-* Built custom developer tooling (Neovim configs, JetBrains plugin setups, CI/CD automation scripts) to standardize dev environments across teams.
+* **IDEs & Editors:** Neovim, IntelliJ IDEA, WebStorm, CLion, DataGrip, VS Code  
+* **Tooling & Workflow:** Built custom developer tooling (Neovim configs, JetBrains plugin setups, CI/CD automation scripts) to standardize workflows and improve team productivity.  
+* **Ecosystem Mastery:** Experienced in configuring and optimizing Linux-based environments, containerized setups (Docker, clustering, caching), and ergonomic, text-first workflows.  
+* **Developer Experience (DX):** Strong advocate for clean, efficient setups that reduce cognitive load — from keymap consistency to automated build/test pipelines.  
 
 ---
 
-## Interests & Advocacy
+## Interests & Advocacy  
 
-* Test-Driven Development (TDD) and clean code
-* Low-level programming (C/C++) and competitive programming
-* Advocacy for equal & open education, mental health awareness, and sustainability
-* Avid runner and systems-thinking enthusiast
+* Test-Driven Development (TDD) and clean code  
+* Low-level programming (C/C++) and competitive programming  
+* Advocacy for open education, mental health, sustainability, and children’s rights to safety, equal health, and education  
+* Climate action, eco-sustainability, and animal rights — supporter of both cats *and* dogs equally (paradox embraced)  
+* Neurodivergent advocate, preferring text-based asynchronous communication over direct calls  
+* Lifelong learner in physics, mathematics, and computer science  
+* Enjoy hiking, meditation, running, gym, and sports with friends  
+* Esports and gaming enthusiast, both player and spectator  
+* Nature lover who values quiet environments over noisy ones  
+* Systems-thinking enthusiast; appreciate ergonomic, aesthetic, and cozy setups  
+* Passion for connecting with like-minded people who share similar goals and values  
+* Collector of *aphorisms* — a self-professed sucker for impactful quotes  
 
 ---
 
