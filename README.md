@@ -1,6 +1,6 @@
 # Ahmed Mohammed Ali — Senior Backend Developer
 
-**Baghdad, Iraq** · [+964 771 145 5264 (WhatsApp only)](tel:+9647711455264) · [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com) · https://linkedin.com/in/deadboyccc · https://github.com/deadboyccc
+**Baghdad, Iraq** · [+964 771 145 5264 (WhatsApp only)](https://wa.me/9647711455264) · [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com) · [LinkedIn](https://linkedin.com/in/deadboyccc) · [GitHub](https://github.com/deadboyccc)
 
 ---
 
