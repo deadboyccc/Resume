@@ -123,7 +123,3 @@ As a neurodivergent advocate, I prefer text-based asynchronous communication. Fo
 ## References
 
 Available upon request.
-
-This is ready to copy-paste with your LinkedIn and GitHub pointing to deadboyccc.
-
-If you want, I can also create a clean DOCX version from this Markdown, perfectly formatted for sending to employers. Do you want me to do that?
