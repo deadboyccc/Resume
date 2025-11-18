@@ -1,4 +1,3 @@
-
 # Ahmed Mohammed Ali — Senior Backend Engineer
 
 Baghdad, Iraq | +964 771 145 5264 (WhatsApp only) | ahmed.mohammed.ali9999@gmail.com | [LinkedIn](https://linkedin.com/in/deadboyccc) | [GitHub](https://github.com/deadboyccc)  
@@ -20,28 +19,36 @@ Began programming in BASIC at age 13; built foundational skills in logic and pro
 ## Technical Skills
 
 **Programming Languages & Platforms**  
-Java, Kotlin, Node.js, TypeScript, JavaScript, C/C++, Python, C#  
+- Java, Kotlin (including Coroutines), Node.js, TypeScript, JavaScript, C/C++, Python, C#  
 
-**Frameworks & Backend Ecosystem**  
-Spring Boot (WebFlux), Spring Cloud, Spring JPA/Hibernate, NestJS, Express.js, ASP.NET Core, MuleSoft Anypoint, DataWeave  
+**Backend Frameworks & Ecosystem**  
+- Spring Boot (WebFlux), Spring Cloud, Spring JPA/Hibernate  
+- NestJS, Express.js, ASP.NET Core, MuleSoft Anypoint, DataWeave  
 
-**Cloud & DevOps**  
-AWS (EKS, Lambda, S3, RDS/Aurora, API Gateway, IAM), GCP, Docker, Kubernetes, GitHub Actions, Jenkins, Bitbucket, Maven, Gradle  
+**Cloud Platforms & DevOps**  
+- AWS (EKS, Lambda, S3, RDS/Aurora, API Gateway, IAM), GCP  
+- Docker, Kubernetes (multi-stage builds, HPA), GitHub Actions, Jenkins, Bitbucket  
+- Maven & Gradle (multi-module, Kotlin DSL)  
 
 **Databases & Data Management**  
-PostgreSQL, MongoDB, Redis, Elasticsearch, DynamoDB  
+- Relational: PostgreSQL (advanced EXPLAIN analysis, indexing, replication, partitioning), AWS RDS/Aurora, DynamoDB  
+- NoSQL: MongoDB, Redis, Elasticsearch  
 
 **Messaging & Event-Driven Systems**  
-Apache Kafka (Streams, Avro/Schema Registry), RabbitMQ, AWS SQS/SNS/EventBridge, gRPC, GraphQL, SOAP  
+- Apache Kafka (Streams, Avro/Schema Registry), RabbitMQ  
+- AWS SQS/SNS/EventBridge, gRPC (Protobuf & streaming), GraphQL, SOAP  
 
 **Observability & Monitoring**  
-OpenTelemetry, Prometheus, Grafana, Dynatrace, ELK Stack, AWS X-Ray, Anypoint Monitoring  
+- OpenTelemetry, Prometheus, Grafana, Dynatrace, ELK Stack, AWS X-Ray, Anypoint Monitoring  
 
 **Architecture & Quality Practices**  
-Microservices, Event-Driven Design, Domain-Driven Design (DDD), SOLID principles, Test-Driven Development (TDD), JUnit, Mockito, Testcontainers  
+- Microservices, Event-Driven Design, Domain-Driven Design (DDD), SOLID principles  
+- Test-Driven Development (TDD), JUnit, Mockito, Testcontainers  
+- Clean Architecture, performance optimization, JVM tuning  
 
-**Tooling & Emerging Skills**  
-Kotlin (Coroutines), Maven & Gradle (multi-module, Kotlin DSL), Spring + AI model serving (TF Serving / ONNX / async inference)  
+**Emerging & Specialized Tooling**  
+- Spring + AI model serving (TF Serving / ONNX / async inference)  
+- CI/CD automation pipelines, Kubernetes orchestration, containerized deployments  
 
 ---
 
