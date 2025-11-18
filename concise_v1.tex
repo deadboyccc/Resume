@@ -19,7 +19,7 @@
 \titleformat{\section}{\Large\bfseries\raggedright}{}{0em}{}[\titlerule]
 \titlespacing{\section}{0pt}{12pt}{6pt}
 
-% Customize subsection titles (not used in this resume but good practice)
+% Customize subsection titles
 \titleformat{\subsection}{\large\bfseries\raggedright}{}{0em}{}
 \titlespacing{\subsection}{0pt}{8pt}{4pt}
 
@@ -50,24 +50,23 @@
     $\cdot$ \href{https://linkedin.com/in/deadboyccc}{LinkedIn}
     $\cdot$ \href{https://github.com/deadboyccc}{GitHub}
 \end{center}
-\hrule % Horizontal line equivalent to ---
+\hrule
 
 % --- Professional Summary ---
 \section*{Professional Summary}
-Seasoned Senior Backend Developer with 6+ years building cloud-native, high-throughput FinTech and enterprise systems. Primarily a \textbf{Java/Spring ecosystem backend engineer}, delivering secure APIs and integrations that handle 1k+ transactions/min and 10k+ active users while improving latency and reliability through observability-driven tuning and CI/CD automation. Seeking senior backend or platform roles (remote or relocation).
+Senior Backend Engineer specializing in Java and the Spring ecosystem, building cloud-native microservices using Spring Boot, Spring Security, Spring Data JPA, Spring Cloud, and reactive systems with Kotlin + Spring WebFlux. Experienced in OAuth2/OIDC (Keycloak), distributed systems, API gateways, CI/CD automation, and event-driven architectures (Kafka/RabbitMQ). Skilled in performance tuning, JVM optimization, and production-grade observability with OpenTelemetry, Prometheus, Grafana, Dynatrace, and ELK. Strong track record delivering scalable, fault-tolerant backend platforms for FinTech and enterprise systems.
 
 % --- Technical Skills ---
 \section*{Technical Skills}
-\begin{description}[font=\textbf, align=left, labelwidth=3cm, leftmargin=\dimexpr3cm+\labelsep\relax]
-    \item[Primary Languages:] Java, Kotlin, C\#, C/C++, JavaScript, TypeScript, Python, SQL, DataWeave
-    \item[Frameworks \& Platforms:] Spring Boot (WebFlux), Spring Cloud, Spring Security, Node.js, NestJS, Express.js, ASP.NET Core, MuleSoft Anypoint
-    \item[Databases \& Storage:] PostgreSQL, MongoDB, MS SQL Server, MySQL, Redis, Elasticsearch; Query optimization, indexing, replication, caching
-    \item[Messaging \& Integration:] RabbitMQ, Apache Kafka, ERP \& FinTech Integration, gRPC, SOAP, GraphQL
-    \item[Cloud \& DevOps:] Docker, Kubernetes (EKS), AWS (EC2, EKS), GCP, GitHub Actions, Jenkins, Bitbucket, Maven, Gradle; CI/CD automation
-    \item[Observability \& Monitoring:] Dynatrace, Prometheus, OpenTelemetry, Grafana, Kibana, Anypoint Monitoring; automated dashboards, alerting, tracing, performance tuning
-    \item[Testing \& Quality:] JUnit, Mockito, Jest, Postman, Testcontainers, Integration \& Unit testing
-    \item[Architecture \& Principles:] Microservices, Event-Driven Architecture, Domain-Driven Design, Clean Architecture, SOLID, TDD
-    \item[Developer Tools \& Productivity:] Neovim, IntelliJ IDEA, WebStorm, CLion, DataGrip, VS Code; Linux-based workflows, Docker containerization, clustering, caching; developer experience (DX) optimization, custom tooling, CI/CD scripts
+\begin{description}[font=\textbf, align=left, labelwidth=2.5cm, leftmargin=\dimexpr2.5cm+\labelsep\relax]
+    \item[Languages:] Java, Kotlin, JavaScript, TypeScript, C\#, C/C++, Python, SQL, DataWeave
+    \item[Frameworks \& Platforms:] Spring Boot (WebFlux), Spring Security, Spring Data, Node.js, NestJS, Express.js, ASP.NET Core, MuleSoft Anypoint
+    \item[Databases \& Storage:] PostgreSQL, MongoDB, MS SQL Server, MySQL, Redis, Elasticsearch
+    \item[Messaging \& Integration:] RabbitMQ, Apache Kafka, ERP/FinTech Integration, gRPC, SOAP, GraphQL
+    \item[Cloud \& DevOps:] Docker, Kubernetes (EKS), AWS (EC2, EKS), GCP, GitHub Actions, Jenkins, Bitbucket, Maven, Gradle
+    \item[Observability \& Ops:] OpenTelemetry, Prometheus, Grafana, Kibana, Dynatrace, Anypoint Monitoring
+    \item[Testing \& Quality:] JUnit, Mockito, Jest, Postman, Testcontainers, Integration \& Unit Testing
+    \item[Architecture \& Practices:] Microservices, Event-Driven Architecture, DDD, Clean Architecture, SOLID, TDD
 \end{description}
 
 % --- Experience ---
@@ -77,62 +76,55 @@ Seasoned Senior Backend Developer with 6+ years building cloud-native, high-thro
 \noindent\textbf{Integration Engineer — QiCard} \hfill Baghdad, Iraq | March 2025 – Present
 \begin{itemize}
     \item Completed MuleSoft Anypoint Platform Development Fundamentals (DEX401) and implemented API-led connectivity across enterprise systems.
-    \item Designed, documented, and implemented System, Process, and Experience APIs (RAML) to ensure modularity and reusability.
-    \item Developed middleware layers for payment gateways, merchant services, and internal systems, improving data-flow consistency and reducing integration errors by 30\%.
-    \item Authored complex DataWeave scripts and aligned integration flows with backend Java services.
-    \item Implemented advanced error-handling patterns and connector policies; maintained CI/CD pipelines using Maven, Bitbucket, and Jenkins.
-    \item Collaborated with cross-regional teams (Egypt, UAE) to coordinate deployments and enforce governance.
-    \item Used Dynatrace for APM and distributed tracing; optimized microservices performance, reducing average response time by 25\%.
-    \item Employed Anypoint Monitoring to track throughput and latency under peak loads and recommended scaling strategies.
-    \item Active participant in sprint planning and backlog refinement within Agile squads.
+    \item Designed, documented, and implemented System, Process, and Experience APIs (RAML) with modular reusable pipelines.
+    \item Developed middleware for payment gateways and merchant services, reducing integration errors by 30\%.
+    \item Built advanced DataWeave transformations tightly aligned with backend Java/Spring services.
+    \item Maintained CI/CD pipelines (Maven, Jenkins, Bitbucket) with automated tests and deployment governance.
+    \item Used Dynatrace for distributed tracing and APM, improving response times by 25\%.
+    \item Applied Anypoint Monitoring for throughput/latency analytics during peak load.
 \end{itemize}
 
 \vspace{1.5mm}
 \noindent\textbf{Backend Developer — FFC} \hfill Baghdad, Iraq (Hybrid) | February 2025 – March 2025
 \begin{itemize}
-    \item Integrated core financial business logic into a real-time mobile FinTech application, enabling secure user transactions with sub-second latency.
-    \item Led transition from an ERP proof-of-concept to a production-grade API architecture, reducing manual processes by 40\%.
-    \item Architected a multi-layered, decoupled backend with audit logging, exception traceability, and role-based access control (RBAC).
-    \item Tuned PostgreSQL queries, implemented Redis caching strategies, and applied circuit-breaker patterns to ensure high availability.
-    \item Conducted JVM and SQL performance profiling and implemented optimizations that improved API throughput by 20\%.
+    \item Built high-performance financial APIs with sub-second latency using Java, Spring Boot, and PostgreSQL.
+    \item Migrated an ERP POC into a full production-grade backend architecture, automating 40\% of workflows.
+    \item Implemented role-based access control, audit logs, exception tracing, and multi-layered architecture.
+    \item Tuned PostgreSQL and JVM performance; introduced Redis caching and circuit-breakers.
 \end{itemize}
 
 \vspace{1.5mm}
-\noindent\textbf{Backend Developer — CodeCraft} \hfill Remote (Part-time) | June 2024 – March 2025
+\noindent\textbf{Backend Developer — CodeCraft} \hfill Remote | June 2024 – March 2025
 \begin{itemize}
-    \item Designed, developed, and maintained REST, GraphQL, and SOAP APIs using Node.js, Express.js, and TypeScript — serving 10,000+ active users with 99.9\% uptime.
-    \item Implemented JWT-based authentication, RBAC, and secure login flows; reduced unauthorized access incidents to near zero.
-    \item Optimized MongoDB and PostgreSQL via indexing, connection pooling, and caching — improving average query times by 35\%.
-    \item Containerized microservices with Docker; deployed to AWS EC2/EKS and configured Kubernetes HPA.
-    \item Configured CI/CD pipelines using GitHub Actions and Jenkins; reduced deployment time by 50\%.
-    \item Applied Domain-Driven Design (DDD) and Clean Architecture principles to decouple business logic.
-    \item Leveraged low-level networking knowledge (C/C++) to optimize request handling under high concurrency.
-    \item Wrote comprehensive Jest and Postman test suites, achieving \textasciitilde95\% code coverage.
+    \item Developed REST/GraphQL/SOAP APIs in Node.js + TypeScript serving 10k+ active users with 99.9\% uptime.
+    \item Implemented JWT auth, RBAC, and secure login flows reducing unauthorized access incidents to almost zero.
+    \item Optimized PostgreSQL/MongoDB with indexing, pooling, and caching (35\% performance improvement).
+    \item Containerized microservices using Docker, deployed to AWS EKS with autoscaling (HPA).
+    \item Built CI/CD pipelines with GitHub Actions and Jenkins, reducing deployment times by 50\%.
 \end{itemize}
 
 \vspace{1.5mm}
-\noindent\textbf{IT Support Specialist — United Horizon} \hfill Baghdad, Iraq | January 2022 – February 2023
+\noindent\textbf{IT Support Specialist — United Horizon} \hfill Baghdad, Iraq | Jan 2022 – Feb 2023
 \begin{itemize}
-    \item Provided Tier 1 \& Tier 2 support, resolving 200+ tickets/month and improving system uptime to 99.8\%.
-    \item Managed installation, configuration, and maintenance of Windows and Linux server environments.
-    \item Created and maintained an IT asset inventory system, reducing allocation errors by 25\%.
-    \item Trained end users on security and best practices, leading to a 40\% decrease in recurring support requests.
+    \item Resolved 200+ technical tickets monthly, improving uptime to 99.8\%.
+    \item Managed Windows/Linux environments, asset tracking, and end-user training.
 \end{itemize}
 
 % --- Projects & Technical Highlights ---
 \section*{Projects \& Technical Highlights}
 \begin{itemize}
-    \item \textbf{FinTech \& ERP Integration:} Delivered secure, scalable backend systems integrating payment APIs, asynchronous messaging (RabbitMQ), and ERP data pipelines — processing 1,000+ transactions/min with encryption and audit trails.
-    \item \textbf{Cloud-native Microservices Reference Architecture:} Designed Node.js + Spring Boot reference architecture for event-driven order processing and horizontal scaling.
-    \item \textbf{Open Source Contributions:} Maintain backend-focused GitHub repos: microservices templates, integration libraries, and a Node.js performance profiling utility.
-    \item \textbf{Technical Blogging:} Published a Medium series on migrating monolithic Java apps to Kubernetes microservices (CI/CD, observability, cost optimization).
+    \item \textbf{Kotlin + WebFlux Reactive Payments Service (NEW):} Built a fully non-blocking payment authorization microservice using Kotlin, Spring WebFlux, R2DBC, and Reactor. Implemented structured concurrency with coroutines, reactive Redis caching, and OpenTelemetry tracing. Achieved a 40\% throughput improvement over the synchronous Java version.
+    \item \textbf{FinTech \& ERP Integration:} Secure, scalable backend integrating payment APIs, async messaging, and ERP pipelines handling 1,000+ transactions/min.
+    \item \textbf{Cloud-native Microservices Blueprint:} Spring Boot + Node.js event-driven architecture with Kafka and scalable horizontal design.
+    \item \textbf{Open Source Contributions:} Microservices templates, integration libraries, and Node.js profiling utilities.
+    \item \textbf{Technical Blogging:} Medium series on migrating Spring Boot monoliths to Kubernetes microservices.
 \end{itemize}
 
 % --- Education ---
 \section*{Education}
 \begin{itemize}
-    \item \textbf{American University of Iraq, Sulaimani (AUIS)} — Full-ride merit scholarship (voluntarily left to pursue self-paced advanced learning in backend development and system design)
-    \item \textbf{Baghdad College High School} — High School Diploma, GPA: 98/100
+    \item \textbf{American University of Iraq, Sulaimani (AUIS)} — Full-ride scholarship (left to pursue advanced backend specialization)
+    \item \textbf{Baghdad College High School} — GPA: 98/100
 \end{itemize}
 
 % --- Certifications ---
@@ -140,39 +132,28 @@ Seasoned Senior Backend Developer with 6+ years building cloud-native, high-thro
 \begin{itemize}
     \item CS50x, CS50P, CS50W — Harvard University
     \item MuleSoft Anypoint Platform Development Fundamentals (DEX401)
-    \item Various courses on Udemy, Coursera, edX, and MIT OCW covering backend development, distributed systems, and system design
+    \item Additional courses (Udemy, Coursera, MIT OCW) on backend engineering and distributed systems
 \end{itemize}
 
 % --- Continuous Learning & Areas of Focus ---
 \section*{Continuous Learning \& Areas of Focus}
 \begin{itemize}
-    \item \textbf{Spring Ecosystem:} Spring 6, Spring Boot 3, WebFlux (Reactive), DI, Jakarta EE changes
-    \item \textbf{Data \& Persistence:} Advanced PostgreSQL (EXPLAIN analysis, indexing, replication, partitioning), Spring JPA/Hibernate
-    \item \textbf{Microservices \& Cloud:} Spring Cloud, Resilience4j, Docker \& Kubernetes (multi-stage builds, HPA, Helm), GKE/Cloud Run
-    \item \textbf{Messaging \& Events:} Spring Kafka (Streams, Avro/Schema Registry), Spring Cloud Stream, SAGA patterns
-    \item \textbf{Security \& APIs:} Spring Security (OAuth2/OIDC, JWT), gRPC (Protobuf, streaming)
-    \item \textbf{Tooling:} Maven \& Gradle (multi-module, Kotlin DSL), Testcontainers, Kotlin (Coroutines)
-    \item \textbf{Emerging:} Exploring Spring + AI model serving (TF Serving / ONNX / async inference)
+    \item \textbf{Spring Ecosystem:} Spring 6, Boot 3, WebFlux, DI, Jakarta EE
+    \item \textbf{Data Engineering:} PostgreSQL indexing, partitioning, replication; Hibernate
+    \item \textbf{Microservices:} Spring Cloud, Resilience4j, Kubernetes, GKE, Helm
+    \item \textbf{Events:} Kafka Streams, Schema Registry, SAGA patterns
+    \item \textbf{Security:} OAuth2/OIDC, Keycloak, JWT, gRPC
+    \item \textbf{Tooling:} Maven/Gradle, Testcontainers, Kotlin
 \end{itemize}
 
-% --- Interests & Advocacy ---
+% --- Interests ---
 \section*{Interests \& Advocacy}
 \begin{itemize}
-    \item Test-Driven Development (TDD) and clean code
-    \item Low-level programming (C/C++) and competitive programming
-    \item Advocacy for open education, mental health, sustainability, and children’s rights to safety, equal health, and education
-    \item Climate action, eco-sustainability, and animal rights — supporter of both cats and dogs equally (paradox embraced)
-    \item Neurodivergent advocate, preferring text-based asynchronous communication over direct calls
-    \item Lifelong learner in physics, mathematics, and computer science
-    \item Enjoy hiking, meditation, running, gym, and sports with friends
-    \item Esports and gaming enthusiast, both player and spectator
-    \item Nature lover who values quiet environments over noisy ones
-    \item Systems-thinking enthusiast; appreciate ergonomic, aesthetic, and cozy setups
-    \item Passion for connecting with like-minded people who share similar goals and values
-    \item Collector of aphorisms — a self-professed sucker for impactful quotes
+    \item TDD, clean code, DDD, competitive programming
+    \item Mental health, sustainability, animal rights
+    \item Physics, mathematics, hiking, meditation, esports
 \end{itemize}
 
-% --- Footer ---
 \vspace{4mm}
 \begin{center}
     References available upon request.
