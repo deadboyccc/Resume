@@ -19,23 +19,23 @@ Began programming in BASIC at age 13; built foundational skills in logic and pro
 ## Technical Skills
 
 **Programming Languages & Platforms**  
-- Java, Kotlin (including Coroutines), Node.js, TypeScript, JavaScript, C/C++, Python, C#  
+- **Java**, **Kotlin** (Coroutines), **Node.js**, **TypeScript**, JavaScript, **C/C++**, Python, C#  
 
 **Backend Frameworks & Ecosystem**  
-- Spring Boot (WebFlux), Spring Cloud, Spring JPA/Hibernate  
+- **Spring Boot (WebFlux)**, Spring Cloud, Spring JPA/Hibernate  
 - NestJS, Express.js, ASP.NET Core, MuleSoft Anypoint, DataWeave  
 
 **Cloud Platforms & DevOps**  
-- AWS (EKS, Lambda, S3, RDS/Aurora, API Gateway, IAM), GCP  
+- **AWS** (EKS, Lambda, S3, RDS/Aurora, API Gateway, IAM), **GCP**  
 - Docker, Kubernetes (multi-stage builds, HPA), GitHub Actions, Jenkins, Bitbucket  
 - Maven & Gradle (multi-module, Kotlin DSL)  
 
 **Databases & Data Management**  
-- Relational: PostgreSQL (advanced EXPLAIN analysis, indexing, replication, partitioning), AWS RDS/Aurora, DynamoDB  
-- NoSQL: MongoDB, Redis, Elasticsearch  
+- **Relational:** PostgreSQL (EXPLAIN analysis, indexing, replication, partitioning), AWS RDS/Aurora, DynamoDB  
+- **NoSQL:** MongoDB, Redis, Elasticsearch  
 
 **Messaging & Event-Driven Systems**  
-- Apache Kafka (Streams, Avro/Schema Registry), RabbitMQ  
+- **Kafka** (Streams, Avro/Schema Registry), RabbitMQ  
 - AWS SQS/SNS/EventBridge, gRPC (Protobuf & streaming), GraphQL, SOAP  
 
 **Observability & Monitoring**  
@@ -121,9 +121,9 @@ Began programming in BASIC at age 13; built foundational skills in logic and pro
 
 ## Interests & Advocacy
 
-I focus on rigorous engineering practices including Test-Driven Development (TDD), clean code, low-level programming (C/C++), and competitive programming, while pursuing lifelong learning in physics, mathematics, and computer science. I am an active advocate for open education, mental health, sustainability, and children's rights (safety, health, education), which includes supporting climate action, eco-sustainability, and animal rights (supporting both cats and dogs equally, a paradox embraced).  
+I focus on **rigorous engineering practices** including TDD, clean code, low-level programming (C/C++), and competitive programming, while pursuing lifelong learning in physics, mathematics, and computer science. I advocate for **open education, mental health, sustainability, and children’s rights**, including climate action and animal welfare.  
 
-As a neurodivergent advocate, I prefer text-based asynchronous communication. For personal balance, I enjoy hiking, meditation, running, gym, and sports, am an esports and gaming enthusiast, and seek quiet, nature-based environments. I am a systems-thinking enthusiast who appreciates ergonomic, aesthetic, and cozy setups, and a collector of aphorisms, always looking to connect with like-minded individuals.  
+I prefer **text-based asynchronous communication** as a neurodivergent advocate. For personal balance, I enjoy hiking, meditation, running, gym, esports, and quiet nature-based environments. I am a **systems-thinking enthusiast** who appreciates ergonomic, aesthetic, and cozy setups and collects aphorisms.  
 
 ---
 
