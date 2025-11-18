@@ -1,30 +1,30 @@
 # Ahmed Mohammed Ali — Senior Backend Developer
 
-**Baghdad, Iraq** · [+964 771 145 5264 (WhatsApp only)](https://wa.me/9647711455264) · [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com) · [LinkedIn](https://linkedin.com/in/deadboyccc) · [GitHub](https://github.com/deadboyccc)
+Baghdad, Iraq · [+964 771 145 5264 (WhatsApp only)](https://wa.me/9647711455264) · [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com) · [LinkedIn](https://linkedin.com/in/deadboyccc) · [GitHub](https://github.com/deadboyccc)
 
 ---
 
 ## Professional Summary
-Senior Backend Engineer specializing in **Java and the Spring ecosystem**, building cloud-native microservices using **Spring Boot, Spring Security, Spring Data JPA, Spring Cloud**, and reactive systems with **Kotlin + Spring WebFlux**. Experienced in **OAuth2/OIDC (Keycloak)**, distributed systems, API gateways, CI/CD automation, and event-driven architectures (**Kafka/RabbitMQ**). Skilled in performance tuning, JVM optimization, and production-grade **observability with OpenTelemetry, Prometheus, Grafana, Dynatrace, and ELK**. Strong track record delivering scalable, fault-tolerant backend platforms for FinTech and enterprise systems. Certified **AWS Cloud Practitioner, AWS Certified Developer – Associate, and AWS Certified Solutions Architect – Associate.**
+Senior Backend Engineer specializing in Java and the Spring ecosystem, building cloud-native microservices using Spring Boot, Spring Security, Spring Data JPA, Spring Cloud, and reactive systems with Kotlin + Spring WebFlux. Experienced in OAuth2/OIDC (Keycloak), distributed systems, API gateways, CI/CD automation, and event-driven architectures (Kafka/RabbitMQ). Skilled in performance tuning, JVM optimization, and production-grade observability with OpenTelemetry, Prometheus, Grafana, Dynatrace, and ELK. Strong track record delivering scalable, fault-tolerant backend platforms for FinTech and enterprise systems. Possesses key cloud credentials, including AWS Cloud Practitioner, AWS Certified Developer – Associate, and AWS Certified Solutions Architect – Associate.
 
 ---
 
 ## Technical Skills
-- **Languages:** JavaScript, TypeScript, **Java**, **Kotlin**, C\#, C/C++, Python, SQL, DataWeave
-- **Frameworks:** Node.js, NestJS, Express.js, **Spring Boot (WebFlux)**, ASP.NET Core, MuleSoft Anypoint
-- **Databases:** PostgreSQL, MongoDB, MS SQL Server, MySQL, Redis, Elasticsearch
-- **Messaging:** RabbitMQ, **Apache Kafka**, ERP \& FinTech Integration, gRPC, SOAP, GraphQL
-- **Cloud & DevOps:** **Docker**, **Kubernetes (EKS)**, AWS (EC2, EKS), GCP, GitHub Actions, Jenkins, Bitbucket, Maven, Gradle
-- **Observability:** **Dynatrace**, **Prometheus**, **OpenTelemetry**, **Grafana**, Kibana, Anypoint Monitoring, ELK Stack
-- **Dev Tools:** Neovim, **IntelliJ IDEA**, WebStorm, CLion, DataGrip, VS Code, Linux Environments
-- **Testing:** JUnit, Mockito, Jest, Postman, Testcontainers, Integration \& Unit testing
-- **Architecture:** Microservices, Event-Driven Architecture, Domain-Driven Design, Clean Architecture, SOLID, TDD
+- Languages: JavaScript, TypeScript, Java, Kotlin, C\#, C/C++, Python, SQL, DataWeave
+- Frameworks: Node.js, NestJS, Express.js, Spring Boot (WebFlux), ASP.NET Core, MuleSoft Anypoint
+- Databases: PostgreSQL, MongoDB, MS SQL Server, MySQL, Redis, Elasticsearch
+- Messaging: RabbitMQ, Apache Kafka, ERP \& FinTech Integration, gRPC, SOAP, GraphQL
+- Cloud & DevOps: Docker, Kubernetes (EKS), AWS (EC2, EKS), GCP, GitHub Actions, Jenkins, Bitbucket, Maven, Gradle
+- Observability: Dynatrace, Prometheus, OpenTelemetry, Grafana, Kibana, Anypoint Monitoring, ELK Stack
+- Dev Tools: Neovim, IntelliJ IDEA, WebStorm, CLion, DataGrip, VS Code, Linux Environments
+- Testing: JUnit, Mockito, Jest, Postman, Testcontainers, Integration \& Unit testing
+- Architecture: Microservices, Event-Driven Architecture, Domain-Driven Design, Clean Architecture, SOLID, TDD
 
 ---
 
 ## Experience
 
-**Integration Engineer — QiCard** | Baghdad, Iraq | March 2025 – Present
+Integration Engineer — QiCard | Baghdad, Iraq | March 2025 – Present
 - Completed MuleSoft Anypoint Platform Development Fundamentals (DEX401) and implemented API-led connectivity across enterprise systems.
 - Designed, documented, and implemented System, Process, and Experience APIs (RAML) to ensure modularity and reusability.
 - Developed middleware layers for payment gateways, merchant services, and internal systems, improving data-flow consistency and reducing integration errors by 30\%.
@@ -35,14 +35,14 @@ Senior Backend Engineer specializing in **Java and the Spring ecosystem**, build
 - Employed Anypoint Monitoring to track throughput and latency under peak loads and recommended scaling strategies.
 - Active participant in sprint planning and backlog refinement within Agile squads.
 
-**Backend Developer — FFC** | Baghdad, Iraq (Hybrid) | February 2025 – March 2025
+Backend Developer — FFC | Baghdad, Iraq (Hybrid) | February 2025 – March 2025
 - Integrated core financial business logic into a real-time mobile FinTech application, enabling secure user transactions with sub-second latency.
 - Led transition from an ERP proof-of-concept to a production-grade API architecture, reducing manual processes by 40\%.
 - Architected a multi-layered, decoupled backend with audit logging, exception traceability, and role-based access control (RBAC).
 - Tuned PostgreSQL queries, implemented Redis caching strategies, and applied circuit-breaker patterns to ensure high availability.
 - Conducted JVM and SQL performance profiling and implemented optimizations that improved API throughput by 20\%.
 
-**Backend Developer — CodeCraft** | Remote (Part-time) | June 2024 – March 2025
+Backend Developer — CodeCraft | Remote (Part-time) | June 2024 – March 2025
 - Designed, developed, and maintained REST, GraphQL, and SOAP APIs using Node.js, Express.js, and TypeScript — serving 10,000+ active users with 99.9\% uptime.
 - Implemented JWT-based authentication, RBAC, and secure login flows; reduced unauthorized access incidents to near zero.
 - Optimized MongoDB and PostgreSQL via indexing, connection pooling, and caching — improving average query times by 35\%.
@@ -52,7 +52,7 @@ Senior Backend Engineer specializing in **Java and the Spring ecosystem**, build
 - Leveraged low-level networking knowledge (C/C++) to optimize request handling under high concurrency.
 - Wrote comprehensive Jest and Postman test suites, achieving $\sim95\%$ code coverage.
 
-**IT Support Specialist — United Horizon** | Baghdad, Iraq | January 2022 – February 2023
+IT Support Specialist — United Horizon | Baghdad, Iraq | January 2022 – February 2023
 - Provided Tier 1 \& Tier 2 support, resolving 200+ tickets/month and improving system uptime to 99.8\%.
 - Managed installation, configuration, and maintenance of Windows and Linux server environments.
 - Created and maintained an IT asset inventory system, reducing allocation errors by 25\%.
@@ -61,16 +61,16 @@ Senior Backend Engineer specializing in **Java and the Spring ecosystem**, build
 ---
 
 ## Projects & Technical Highlights
-- **FinTech & ERP Integration:** Delivered secure, scalable backend systems integrating payment APIs, asynchronous messaging (RabbitMQ), and ERP data pipelines — processing 1,000+ transactions/min with encryption and audit trails.
-- **Cloud-native Microservices Reference Architecture:** Designed Node.js + Spring Boot reference architecture for event-driven order processing and horizontal scaling.
-- **Open Source Contributions:** Maintain backend-focused GitHub repos: microservices templates, integration libraries, and a Node.js performance profiling utility.
-- **Technical Blogging:** Published a Medium series on migrating monolithic Java apps to Kubernetes microservices (CI/CD, observability, cost optimization).
+- FinTech & ERP Integration: Delivered secure, scalable backend systems integrating payment APIs, asynchronous messaging (RabbitMQ), and ERP data pipelines — processing 1,000+ transactions/min with encryption and audit trails.
+- Cloud-native Microservices Reference Architecture: Designed Node.js + Spring Boot reference architecture for event-driven order processing and horizontal scaling.
+- Open Source Contributions: Maintain backend-focused GitHub repos: microservices templates, integration libraries, and a Node.js performance profiling utility.
+- Technical Blogging: Published a Medium series on migrating monolithic Java apps to Kubernetes microservices (CI/CD, observability, cost optimization).
 
 ---
 
 ## Education
-- **American University of Iraq, Sulaimani (AUIS)** — Full-ride merit scholarship (voluntarily left to pursue self-paced advanced learning in backend development and system design)
-- **Baghdad College High School** — High School Diploma, GPA: 98/100
+- American University of Iraq, Sulaimani (AUIS) — Full-ride merit scholarship (voluntarily left to pursue self-paced advanced learning in backend development and system design)
+- Baghdad College High School — High School Diploma, GPA: 98/100
 
 ---
 
@@ -82,13 +82,13 @@ Senior Backend Engineer specializing in **Java and the Spring ecosystem**, build
 ---
 
 ## Continuous Learning & Areas of Focus
-- **Spring Ecosystem:** Spring 6, Spring Boot 3, WebFlux (Reactive), DI, Jakarta EE changes
-- **Data & Persistence:** Advanced PostgreSQL (EXPLAIN analysis, indexing, replication, partitioning), Spring JPA/Hibernate
-- **Microservices & Cloud:** Spring Cloud, Resilience4j, Docker \& Kubernetes (multi-stage builds, HPA, Helm), GKE/Cloud Run
-- **Messaging & Events:** Spring Kafka (Streams, Avro/Schema Registry), Spring Cloud Stream, SAGA patterns
-- **Security & APIs:** Spring Security (OAuth2/OIDC, JWT), gRPC (Protobuf, streaming)
-- **Tooling:** Maven \& Gradle (multi-module, Kotlin DSL), Testcontainers, Kotlin (Coroutines)
-- **Emerging:** Exploring Spring + AI model serving (TF Serving / ONNX / async inference)
+- Spring Ecosystem: Spring 6, Spring Boot 3, WebFlux (Reactive), DI, Jakarta EE changes
+- Data & Persistence: Advanced PostgreSQL (EXPLAIN analysis, indexing, replication, partitioning), Spring JPA/Hibernate
+- Microservices & Cloud: Spring Cloud, Resilience4j, Docker \& Kubernetes (multi-stage builds, HPA, Helm), GKE/Cloud Run
+- Messaging & Events: Spring Kafka (Streams, Avro/Schema Registry), Spring Cloud Stream, SAGA patterns
+- Security & APIs: Spring Security (OAuth2/OIDC, JWT), gRPC (Protobuf, streaming)
+- Tooling: Maven \& Gradle (multi-module, Kotlin DSL), Testcontainers, Kotlin (Coroutines)
+- Emerging: Exploring Spring + AI model serving (TF Serving / ONNX / async inference)
 
 ---
 
