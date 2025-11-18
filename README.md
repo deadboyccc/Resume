@@ -1,15 +1,15 @@
-# Ahmed Mohammed Ali — senior backend developer
+# Ahmed Mohammed Ali — Senior Backend Developer
 
 Baghdad, Iraq · [+964 771 145 5264 (WhatsApp only)](https://wa.me/9647711455264) · [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com) · [LinkedIn](https://linkedin.com/in/deadboyccc) · [GitHub](https://github.com/deadboyccc)
 
 ---
 
-## professional summary
+## Professional Summary
 Senior Backend Engineer specializing in Java and the Spring ecosystem, building cloud-native microservices using Spring Boot, Spring Security, Spring Data JPA, Spring Cloud, and reactive systems with Kotlin + Spring WebFlux. Experienced in OAuth2/OIDC (Keycloak), distributed systems, API gateways, CI/CD automation, and event-driven architectures (Kafka/RabbitMQ). Skilled in performance tuning, JVM optimization, and production-grade observability with OpenTelemetry, Prometheus, Grafana, Dynatrace, and ELK. Strong track record delivering scalable, fault-tolerant backend platforms for FinTech and enterprise systems, leveraging AWS services like EKS, EC2, Lambda, S3, and API Gateway for robust deployment, scaling, and serverless compute models. Possesses key cloud credentials, including AWS Cloud Practitioner, AWS Certified Developer – Associate, and AWS Certified Solutions Architect – Associate.
 
 ---
 
-## technical skills
+## Technical Skills
 - Languages: JavaScript, TypeScript, Java, Kotlin, C\#, C/C++, Python, SQL, DataWeave
 - Frameworks: Node.js, NestJS, Express.js, Spring Boot (WebFlux), ASP.NET Core, MuleSoft Anypoint
 - Databases: PostgreSQL, MongoDB, MS SQL Server, MySQL, Redis, Elasticsearch
@@ -22,7 +22,7 @@ Senior Backend Engineer specializing in Java and the Spring ecosystem, building 
 
 ---
 
-## experience
+## Experience
 
 Integration Engineer — QiCard | Baghdad, Iraq | March 2025 – Present
 - Completed MuleSoft Anypoint Platform Development Fundamentals (DEX401) and implemented API-led connectivity across enterprise systems.
@@ -60,7 +60,7 @@ IT Support Specialist — United Horizon | Baghdad, Iraq | January 2022 – Febr
 
 ---
 
-## projects & technical highlights
+## Projects & Technical Highlights
 - FinTech & ERP Integration: Delivered secure, scalable backend systems integrating payment APIs, asynchronous messaging (RabbitMQ, AWS SQS/SNS, EventBridge), and ERP data pipelines — processing 1,000+ transactions/min with encryption and audit trails, utilizing AWS IAM for secure service-to-service communication and S3 for data storage.
 - Cloud-native Microservices Reference Architecture: Designed a highly scalable microservices architecture using Node.js + Spring Boot, leveraging AWS EKS for container orchestration, managing persistent data with AWS RDS (PostgreSQL/Aurora), securing endpoints with API Gateway, and achieving horizontal scaling via Kubernetes HPA.
 - Open Source Contributions: Maintain backend-focused GitHub repos: microservices templates, integration libraries, and a Node.js performance profiling utility.
@@ -68,20 +68,20 @@ IT Support Specialist — United Horizon | Baghdad, Iraq | January 2022 – Febr
 
 ---
 
-## education
+## Education
 - American University of Iraq, Sulaimani (AUIS) — Full-ride merit scholarship (voluntarily left to pursue self-paced advanced learning in backend development and system design)
 - Baghdad College High School — High School Diploma, GPA: 98/100
 
 ---
 
-## certifications
+## Certifications
 - CS50x, CS50P, CS50W — Harvard University
 - MuleSoft Anypoint Platform Development Fundamentals (DEX401)
 - Various courses on Udemy, Coursera, edX, and MIT OCW covering backend development, distributed systems, and system design
 
 ---
 
-## continuous learning & areas of focus
+## Continuous Learning & Areas of Focus
 - Spring Ecosystem: Spring 6, Spring Boot 3, WebFlux (Reactive), DI, Jakarta EE changes
 - Data & Persistence: Advanced PostgreSQL (EXPLAIN analysis, indexing, replication, partitioning), Spring JPA/Hibernate, AWS RDS/Aurora, DynamoDB
 - Microservices & Cloud: Spring Cloud, Resilience4j, Docker \& Kubernetes (multi-stage builds, HPA, Helm), GKE/Cloud Run, AWS ECS/Fargate, Serverless (Lambda/API Gateway)
@@ -92,7 +92,7 @@ IT Support Specialist — United Horizon | Baghdad, Iraq | January 2022 – Febr
 
 ---
 
-## interests & advocacy
+## Interests & Advocacy
 - Test-Driven Development (TDD) and clean code
 - Low-level programming (C/C++) and competitive programming
 - Advocacy for open education, mental health, sustainability, and children’s rights to safety, equal health, and education
