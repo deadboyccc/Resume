@@ -1,4 +1,3 @@
-Absolutely! Here’s your full CV in Markdown with your deadboyccc ID added for both LinkedIn and GitHub. No other changes were made:
 
 # Ahmed Mohammed Ali — Senior Backend Engineer
 
