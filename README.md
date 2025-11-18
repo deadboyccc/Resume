@@ -1,6 +1,6 @@
 # Ahmed Mohammed Ali — Senior Backend Engineer
 
-Baghdad, Iraq · [+964 771 145 5264 (WhatsApp only)](https://wa.me/9647711455264) · [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com) · [LinkedIn](https://linkedin.com/in/deadboyccc) · [GitHub](https://github.com/deadboyccc)
+Baghdad, Iraq | [+964 771 145 5264 (WhatsApp only)](https://wa.me/9647711455264) | [ahmed.mohammed.ali9999@gmail.com](mailto:ahmed.mohammed.ali9999@gmail.com) | [LinkedIn](https://linkedin.com/in/deadboyccc) | [GitHub](https://github.com/deadboyccc)
 
 ---
 
@@ -89,7 +89,4 @@ Began programming in BASIC at age 13; built foundational skills in logic and pro
 ---
 
 ## Interests & Advocacy
-I focus on rigorous engineering practices including Test-Driven Development (TDD), clean code, low-level programming (C/C++), and competitive programming, while pursuing lifelong learning in physics, mathematics, and computer science. I am an active advocate for open education, mental health, sustainability, and children's rights (safety, health, education), which includes supporting climate action, eco-sustainability, and animal rights (supporting both cats and dogs equally, a paradox embraced). As a neurodivergent advocate, I prefer text-based asynchronous communication. For personal balance, I enjoy hiking, meditation, running, gym, and sports, am an esports and gaming enthusiast, and seek quiet, nature-based environments. I am a systems-thinking enthusiast who appreciates ergonomic, aesthetic, and cozy setups, and a collector of aphorisms, always looking to connect with like-minded individuals.
-
----
-*References available upon request.*
+I focus on rigorous engineering practices including Test-Driven Development (TDD), clean code, low-level programming (C/C++), and competitive programming, while pursuing lifelong learning in physics, mathematics, and computer science. I am an active advocate for open education, mental health, sustainability, and children's rights (safety, health, education
