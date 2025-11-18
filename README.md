@@ -5,7 +5,7 @@ Baghdad, Iraq · [+964 771 145 5264 (WhatsApp only)](https://wa.me/9647711455264
 ---
 
 ## Professional Summary
-Senior Backend Engineer specializing in Java and the Spring ecosystem, building cloud-native microservices using Spring Boot, Spring Security, Spring Data JPA, Spring Cloud, and reactive systems with Kotlin + Spring WebFlux. Experienced in OAuth2/OIDC (Keycloak), distributed systems, API gateways, CI/CD automation, and event-driven architectures (Kafka/RabbitMQ). Skilled in performance tuning, JVM optimization, and production-grade observability with OpenTelemetry, Prometheus, Grafana, Dynatrace, and ELK. Strong track record delivering scalable, fault-tolerant backend platforms for FinTech and enterprise systems. Possesses key cloud credentials, including AWS Cloud Practitioner, AWS Certified Developer – Associate, and AWS Certified Solutions Architect – Associate.
+Senior Backend Engineer specializing in Java and the Spring ecosystem, building cloud-native microservices using Spring Boot, Spring Security, Spring Data JPA, Spring Cloud, and reactive systems with Kotlin + Spring WebFlux. Experienced in OAuth2/OIDC (Keycloak), distributed systems, API gateways, CI/CD automation, and event-driven architectures (Kafka/RabbitMQ). Skilled in performance tuning, JVM optimization, and production-grade observability with OpenTelemetry, Prometheus, Grafana, Dynatrace, and ELK. Strong track record delivering scalable, fault-tolerant backend platforms for FinTech and enterprise systems, leveraging AWS services like **EKS, EC2, Lambda, S3, and API Gateway** for robust deployment, scaling, and serverless compute models. Possesses key cloud credentials, including AWS Cloud Practitioner, AWS Certified Developer – Associate, and AWS Certified Solutions Architect – Associate.
 
 ---
 
@@ -14,8 +14,8 @@ Senior Backend Engineer specializing in Java and the Spring ecosystem, building 
 - Frameworks: Node.js, NestJS, Express.js, Spring Boot (WebFlux), ASP.NET Core, MuleSoft Anypoint
 - Databases: PostgreSQL, MongoDB, MS SQL Server, MySQL, Redis, Elasticsearch
 - Messaging: RabbitMQ, Apache Kafka, ERP \& FinTech Integration, gRPC, SOAP, GraphQL
-- Cloud & DevOps: Docker, Kubernetes (EKS), AWS (EC2, EKS), GCP, GitHub Actions, Jenkins, Bitbucket, Maven, Gradle
-- Observability: Dynatrace, Prometheus, OpenTelemetry, Grafana, Kibana, Anypoint Monitoring, ELK Stack
+- Cloud & DevOps: Docker, Kubernetes (EKS), AWS (**EC2, EKS, Lambda, S3, RDS, API Gateway, SQS, SNS, IAM, CloudWatch**), GCP, GitHub Actions, Jenkins, Bitbucket, Maven, Gradle
+- Observability: Dynatrace, Prometheus, OpenTelemetry, Grafana, Kibana, Anypoint Monitoring, ELK Stack, AWS X-Ray
 - Dev Tools: Neovim, IntelliJ IDEA, WebStorm, CLion, DataGrip, VS Code, Linux Environments
 - Testing: JUnit, Mockito, Jest, Postman, Testcontainers, Integration \& Unit testing
 - Architecture: Microservices, Event-Driven Architecture, Domain-Driven Design, Clean Architecture, SOLID, TDD
@@ -61,10 +61,10 @@ IT Support Specialist — United Horizon | Baghdad, Iraq | January 2022 – Febr
 ---
 
 ## Projects & Technical Highlights
-- FinTech & ERP Integration: Delivered secure, scalable backend systems integrating payment APIs, asynchronous messaging (RabbitMQ), and ERP data pipelines — processing 1,000+ transactions/min with encryption and audit trails.
-- Cloud-native Microservices Reference Architecture: Designed Node.js + Spring Boot reference architecture for event-driven order processing and horizontal scaling.
+- FinTech & ERP Integration: Delivered secure, scalable backend systems integrating payment APIs, asynchronous messaging (RabbitMQ, AWS SQS/SNS, **EventBridge**), and ERP data pipelines — processing 1,000+ transactions/min with encryption and audit trails, utilizing AWS IAM for secure service-to-service communication and **S3 for data storage**.
+- Cloud-native Microservices Reference Architecture: Designed a highly scalable microservices architecture using Node.js + Spring Boot, leveraging AWS EKS for container orchestration, managing persistent data with AWS RDS (PostgreSQL/Aurora), securing endpoints with **API Gateway**, and achieving horizontal scaling via Kubernetes HPA.
 - Open Source Contributions: Maintain backend-focused GitHub repos: microservices templates, integration libraries, and a Node.js performance profiling utility.
-- Technical Blogging: Published a Medium series on migrating monolithic Java apps to Kubernetes microservices (CI/CD, observability, cost optimization).
+- Technical Blogging: Published a Medium series on migrating monolithic Java apps to Kubernetes microservices (CI/CD, observability, cost optimization with AWS Cost Explorer and CloudWatch).
 
 ---
 
@@ -83,10 +83,10 @@ IT Support Specialist — United Horizon | Baghdad, Iraq | January 2022 – Febr
 
 ## Continuous Learning & Areas of Focus
 - Spring Ecosystem: Spring 6, Spring Boot 3, WebFlux (Reactive), DI, Jakarta EE changes
-- Data & Persistence: Advanced PostgreSQL (EXPLAIN analysis, indexing, replication, partitioning), Spring JPA/Hibernate
-- Microservices & Cloud: Spring Cloud, Resilience4j, Docker \& Kubernetes (multi-stage builds, HPA, Helm), GKE/Cloud Run
-- Messaging & Events: Spring Kafka (Streams, Avro/Schema Registry), Spring Cloud Stream, SAGA patterns
-- Security & APIs: Spring Security (OAuth2/OIDC, JWT), gRPC (Protobuf, streaming)
+- Data & Persistence: Advanced PostgreSQL (EXPLAIN analysis, indexing, replication, partitioning), Spring JPA/Hibernate, AWS RDS/Aurora, **DynamoDB**
+- Microservices & Cloud: Spring Cloud, Resilience4j, Docker \& Kubernetes (multi-stage builds, HPA, Helm), GKE/Cloud Run, AWS ECS/Fargate, **Serverless (Lambda/API Gateway)**
+- Messaging & Events: Spring Kafka (Streams, Avro/Schema Registry), Spring Cloud Stream, SAGA patterns, AWS SQS/SNS/EventBridge
+- Security & APIs: Spring Security (OAuth2/OIDC, JWT), gRPC (Protobuf, streaming), AWS IAM, Secrets Manager, **KMS**
 - Tooling: Maven \& Gradle (multi-module, Kotlin DSL), Testcontainers, Kotlin (Coroutines)
 - Emerging: Exploring Spring + AI model serving (TF Serving / ONNX / async inference)
 
