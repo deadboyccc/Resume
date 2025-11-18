@@ -18,23 +18,19 @@ Began programming in **BASIC at age 13**; built foundational skills in logic and
 
 ## Technical Skills
 
-**Programming & Scripting:** Java, Kotlin (Coroutines), Node.js, TypeScript, JavaScript, C/C++, Python, C#  
+**Programming & Scripting:** Java, Kotlin (Coroutines, WebFlux), C/C++, C#, Python, Node.js, TypeScript, JavaScript  
 
-**Backend Frameworks & Ecosystem:** Spring Boot (WebFlux), Spring Cloud, Spring JPA/Hibernate, NestJS, Express.js, ASP.NET Core, MuleSoft Anypoint, DataWeave  
+**Backend & Frameworks:** Spring Boot (WebFlux), Spring Cloud, Spring JPA/Hibernate, Jakarta EE, NestJS, Express.js, ASP.NET Core, MuleSoft Anypoint Platform, Spring AI integrations  
 
-**Cloud Platforms & DevOps:** AWS (EKS, Lambda, S3, RDS/Aurora, API Gateway, IAM), GCP; Docker, Kubernetes (multi-stage builds, HPA), GitHub Actions, Jenkins, Bitbucket; Maven & Gradle (multi-module, Kotlin DSL)  
+**Cloud & DevOps:** AWS (EKS, Lambda, S3, RDS/Aurora, API Gateway, IAM), GCP; Docker, Kubernetes (multi-stage builds, HPA, Helm), CI/CD (GitHub Actions, Jenkins, Bitbucket)  
 
-**Databases & Data Management:**  
-- **Relational:** PostgreSQL (EXPLAIN analysis, indexing, replication, partitioning), AWS RDS/Aurora, DynamoDB  
-- **NoSQL:** MongoDB, Redis, Elasticsearch  
+**Databases & Data Management:** PostgreSQL (indexing, replication, partitioning, EXPLAIN), DynamoDB, MongoDB, Redis, Elasticsearch  
 
-**Messaging & Event-Driven Systems:** Kafka (Streams, Avro/Schema Registry), RabbitMQ; AWS SQS/SNS/EventBridge; gRPC (Protobuf & streaming), GraphQL, SOAP  
+**Messaging & Event-Driven Systems:** Kafka (Streams, Avro, Schema Registry), RabbitMQ, AWS SQS/SNS/EventBridge; gRPC (Protobuf & streaming), GraphQL, SOAP  
+
+**Architecture & Best Practices:** Microservices, Event-Driven Design, Domain-Driven Design (DDD), SOLID principles, Clean Architecture, TDD, JVM tuning & performance optimization  
 
 **Observability & Monitoring:** OpenTelemetry, Prometheus, Grafana, Dynatrace, ELK Stack, AWS X-Ray, Anypoint Monitoring  
-
-**Architecture & Quality Practices:** Microservices, Event-Driven Design, Domain-Driven Design (DDD), SOLID principles; TDD, JUnit, Mockito, Testcontainers; Clean Architecture, JVM tuning, performance optimization  
-
-**Emerging & Specialized Tooling:** Spring + AI model serving (TF Serving / ONNX / async inference); CI/CD pipelines, Kubernetes orchestration, containerized deployments  
 
 ---
 
@@ -106,13 +102,12 @@ Began programming in **BASIC at age 13**; built foundational skills in logic and
 
 ## Continuous Learning & Focus Areas
 
-**Spring Ecosystem & Backend:** Spring Boot/WebFlux, DI, Jakarta EE updates, Spring Cloud, Resilience4j  
+**Spring Ecosystem & Backend:** Spring Boot/WebFlux, DI, Jakarta EE updates, Spring Cloud, Resilience4j, Spring AI integrations  
 **Data & Persistence:** PostgreSQL (EXPLAIN, indexing, replication, partitioning), Spring JPA/Hibernate, RDS/Aurora, DynamoDB  
 **Microservices & Cloud:** Docker, Kubernetes (multi-stage builds, HPA, Helm), AWS ECS/Fargate, Lambda/API Gateway, Serverless, GKE/Cloud Run  
 **Messaging & Events:** Kafka (Streams, Avro), Spring Cloud Stream, SAGA patterns, AWS SQS/SNS/EventBridge  
 **Security & APIs:** Spring Security (OAuth2/OIDC, JWT), gRPC, AWS IAM/Secrets Manager/KMS  
 **Tooling & Testing:** Maven & Gradle, Testcontainers, Kotlin Coroutines  
-**Emerging:** Spring + AI model serving (TF Serving / ONNX / async inference)  
 
 ---
 
